@@ -4,10 +4,10 @@ namespace Template {
 
   console.log("FudgeStory template starting");
 
-  export let transition = {
+  export let transitions = {
     puzzle: {
       duration: 1,
-      alpha: "",
+      alpha: "Images/jigsaw_06.jpg",
       edge: 1
     }
   };
@@ -22,23 +22,23 @@ namespace Template {
   export let locations = {
     beachDay: {
       name: "Beach Day",
-      background: ""
+      background: "Images/newyork.jpg"
     }
   };
 
   export let characters = {
     narrator: {
-      name: "Thorsten"
+      name: ""
     },
     protagonist: {
-      name: "Seppel"
+      name: ""
     },
-    aisaka: {
-      name: "Aisaka",
+    Jerry: {
+      name: "Jerry",
       origin: ƒS.ORIGIN.BOTTOMCENTER,
       pose: {
         angry: "PFAD ZUM PNG",
-        haappy: "PFAD ZUM PNG",
+        happy: "Images/jerry.png",
         upset: "PFAD ZUM PNG"
       }
     }
@@ -48,8 +48,74 @@ namespace Template {
     nameProtagonist: ""
   };
 
+
+  export function ghostAnimation(): ƒS.AnimationDefinition {
+    return {
+      start: { translation: ƒS.positions.bottomright, color: ƒS.Color.CSS("green", 1) },
+      end: { translation: ƒS.positions.bottomleft, color: ƒS.Color.CSS("blue", 0) },
+      duration: 3,
+      playmode: ƒS.ANIMATION_PLAYMODE.LOOP
+    };
+  }
+
+
+  // let inGameMenuButtons = {
+  //   save: "Save",
+  //   load: "Load",
+  //   close: "Close"
+  // };
+
+  // let gameMenu: ƒS.Menu;
+
+  // let menuIsOpen: boolean = true;
+
+  // async function buttonFunctionalities(_option: string): Promise<void> {
+  //   switch (_option) {
+  //     case inGameMenuButtons.save:
+  //       await ƒS.Progress.save();
+  //       break;
+  //     case inGameMenuButtons.load:
+  //       await ƒS.Progress.load();
+  //       break;
+  //     case inGameMenuButtons.close:
+  //       gameMenu.close();
+  //       menuIsOpen = false;
+  //       break;
+  //   }
+  // }
+
+  // Menu Shortcuts
+  // document.addEventListener("keydown", hndKeyPress);
+  // async function hndKeyPress(_event: KeyboardEvent): Promise<void> {
+  //   switch (_event.code) {
+  //     case ƒ.KEYBOARD_CODE.F8:
+  //       console.log("Save");
+  //       await ƒS.Progress.save();
+  //       break;
+  //     case ƒ.KEYBOARD_CODE.F9:
+  //       console.log("Load");
+  //       await ƒS.Progress.load();
+  //       break;
+  //     case ƒ.KEYBOARD_CODE.M:
+  //       if (menuIsOpen) {
+  //         console.log("Close");
+  //         gameMenu.close();
+  //         menuIsOpen = false;
+  //       }
+  //       else {
+  //         console.log("Open");
+  //         gameMenu.open();
+  //         menuIsOpen = true;
+  //       }
+  //       break;
+  //   }
+  // }
+
   window.addEventListener("load", start);
   function start(_event: Event): void {
+    // gameMenu = ƒS.Menu.create(inGameMenuButtons, buttonFunctionalities, "game-menu");
+    // buttonFunctionalities("Close");
+
     let scenes: ƒS.Scenes = [
       { scene: Scene, name: "Scene" }
     ];
