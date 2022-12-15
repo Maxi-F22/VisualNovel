@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+  overflow-y: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+scene {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+
+/***** SPLASH SCREEN *****/
+dialog[type="splash"] {
+  background-image: url("Images/Backgrounds/Background.png");
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(192, 192, 156);
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  z-index: 10;
+}
+
+dialog[type="splash"] > p {
+  font-size: 5em;
+  color: white;
+  text-align: center;
+  background-color:rgb(16, 165, 41);
+}
+
+#FudgeStoryLogo {
+  display: block;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+dialog[type=splash]>img#FudgeStoryLogo {
+  width: 50%;
+  margin-bottom: 200px;
+}
+
+
+/***** SPEECH, CONTENT, NAMES *****/
+speech {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  color: beige;
+  background-color: rgba(57, 16, 24, 0.9);
+  width: 100%;
+  height: 13%;
+}
+
+speech content {
+  color: rgb(255, 203, 237);
+  font-size: 1.7vmin;
+  position: absolute;
+  left: 100px;
+}
+
+name {
+  font-size: 2vmin;
+  display: block;
+  color: rgb(218, 69, 171);
+  margin-bottom: 20px;
+  margin-left: 100px;
+  margin-top: 20px;
+}

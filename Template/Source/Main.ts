@@ -1,8 +1,13 @@
-namespace Template {
+namespace Game {
   export import ƒ = FudgeCore;
   export import ƒS = FudgeStory;
 
   console.log("FudgeStory template starting");
+
+  export function showCredits(): void {
+    ƒS.Text.setClass("credits");
+    ƒS.Text.print("Halleluja");
+  }
 
   export let transitions = {
     puzzle: {
@@ -14,15 +19,19 @@ namespace Template {
 
   export let sound = {
     // Themes
+    nightclub: "Audio/Nightclub.ogg",
 
     // SFX
-    coin: "Audio/coin.mp3"
+    coin: "Audio/coin.mp3",
+    cough: "Audio/cough.mp3",
+    river: "Audio/river.mp3"
   };
 
   export let locations = {
     beachDay: {
       name: "Beach Day",
-      background: "Images/newyork.jpg"
+      background: "Images/newyork.jpg",
+      foreground: "Images/newyork.jpg"
     }
   };
 
@@ -45,7 +54,22 @@ namespace Template {
   };
 
   export let dataForSave = {
-    nameProtagonist: ""
+    nameProtagonist: "",
+    character1TrustPoints: 0
+  };
+
+  export let items = {
+    blobRED: {
+      name: "Blob Red",
+      description: "A reddish something",
+      image: "Images/Items/blobRED.png",
+      static: true
+    },
+    blobBU: {
+      name: "Blob Blue",
+      description: "A blueish something",
+      image: "Images/Items/blobBU.png"
+    }
   };
 
 
@@ -117,7 +141,9 @@ namespace Template {
     // buttonFunctionalities("Close");
 
     let scenes: ƒS.Scenes = [
-      { scene: Scene, name: "Scene" }
+      { id: "first_scene", scene: Opening, name: "Opening Scene" },
+      { id: "second_scene", scene: Choices, name: "Second Scene", next: "first_scene" },
+      { id: "bad_choice_scene", scene: BadChoice, name: "Bad Choice Scene" }
     ];
 
     let uiElement: HTMLElement = document.querySelector("[type=interface]");
