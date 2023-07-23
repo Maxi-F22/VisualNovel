@@ -55,5 +55,12 @@
 		"variable-name": [true, "check-format", "allow-leading-underscore"],
 		"whitespace": [true, "check-branch", "check-decl", "check-operator", "check-separator", "check-type"],
 		"file-header": [false, "Autor: Jirka Dell'Oro-Friedl"]
+	},
+	"linterOptions": {
+		"exclude": [
+			"MurderousWest/Build/*",
+			"MurderousWest/Fudge/*",
+			"MurderousWest/FudgeStory/*"
+		]
 	}
 }

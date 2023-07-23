@@ -12,33 +12,35 @@ namespace Game {
         T0007: "Ja, also der alte Jenkins hat mir ein wenig erzählt. Schrecklich das Ganze! Aber was hat das mit mir zu tun?",
         T0008: "Oh nein, es tut mir Leid aber ich kann euch nicht helfen. Die Panikattacken...",
         T0009: "Nochmal, es tut mir Leid aber ich kann euch nicht helfen. Ich muss nach Hause und meine Pferde füttern.",
-        T0010: "Na gut, ich höre mir zumindest mal an, wo euer Problem liegt. Aber sobald es mir zu viel wird, werde ich nach Hause gehen!",
+        T0010: "Na gut, ich höre mir zumindest mal an, wo euer Problem liegt. Aber sobald es mir zu viel wird, werde ich nach Hause gehen!"
       },
       sheriff: {
         T0001: dataForSave.nameProtagonist + ", gut dass wir dich zufällig hier treffen. Wir waren eh auf dem Weg zu dir nach Hause.",
         T0002: "Dein alter Herr war der beste Sheriff, den diese Stadt jemals hatte. Und wir wissen, dass seine Auffassungsgabe und sein Gespür auf dich übergegangen sind.",
-        T0003: "Das verstehen wir und wir würden dich auch niemals bitten, wenn es nicht so wichtig wäre. Wir sind mit unseren Kräften langsam echt am Ende. Niemand hat auch nur eine Ahnung, wie wir weiter vorgehen könnten.",
+        T0003: "Das verstehen wir und wir würden dich auch niemals bitten, wenn es nicht so wichtig wäre. Wir sind mit unseren Kräften langsam echt am Ende. Niemand hat auch nur eine Ahnung, wie wir weiter vorgehen könnten."
       },
       deputy: {
-        T0001: "Du hast doch sicher von diesen schrecklichen, grauenhaften Morden gehört, die zurzeit die Stadt heimsuchen oder?",
+        T0001: "Du hast doch sicher von diesen schrecklichen, grauenhaften Morden gehört, die zurzeit die Stadt heimsuchen oder?"
       },
       narration: {
         N0001: "Schweißgebadet wacht " + dataForSave.nameProtagonist + " auf.",
         N0002: "An der Tür vom Haus des Bäckers",
-        N0003: dataForSave.nameProtagonist + " verlässt das Grundstück und macht sich auf den Weg Richtung zuhause.",
+        N0003: dataForSave.nameProtagonist + " verlässt das Grundstück und macht sich auf den Weg Richtung zuhause."
       }
     };
 
     let getUpChoice = {
       breakfast: "Frühstücken",
-      horses: "Die Pferde füttern",
+      horses: "Die Pferde füttern"
     };
 
     let goWithSheriffChoice = {
       agree: "Einwilligen",
-      turndown: "Ablehnen",
+      turndown: "Ablehnen"
     };
 
+    ƒS.Speech.hide();
+    ƒS.Sound.play(sound.relax, 0.1, true);
     await ƒS.Location.show(locations.chapter1);
     await ƒS.update(5);
 
@@ -100,16 +102,19 @@ namespace Game {
             break;
           case goWithSheriffChoice.turndown:
             await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0009);
+            await ƒS.Character.hide(characters.protagonist);
             await ƒS.Character.hide(characters.deputy);
             await ƒS.Character.hide(characters.sheriff);
             await ƒS.update(1);
             return "chapter_one_horses";
-        };
+        }
 
         break;
       case getUpChoice.horses:
+        await ƒS.Character.hide(characters.protagonist);
+        await ƒS.update(1);
         return "chapter_one_horses";
-    };
+    }
 
   }
 }

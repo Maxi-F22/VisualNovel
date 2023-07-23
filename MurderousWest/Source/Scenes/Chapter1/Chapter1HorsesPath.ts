@@ -13,7 +13,7 @@ namespace Game {
         T0008: "Du wolltest was? Dein neuestes Opfer entsorgen oder was?",
         T0009: "Nein bitte bitte. Ich hab dir nichts getan.",
         T0010: "Bitte was, besondere Pläne?",
-        T0011: "Du widerst mich an!",
+        T0011: "Du widerst mich an!"
       },
       murderer: {
         T0001: "Warum bist du hier? Es sollte niemand hier sein!",
@@ -26,7 +26,7 @@ namespace Game {
         T0008: "Du kennst mich nicht. Ich entsorge meine Opfer nicht. Ich... Nein du wirst nichts aus mir herausbekommen.",
         T0009: "Du nervst mit deinem Betteln, halt jetzt dein Maul!",
         T0010: "Ok, wir machen es folgendermaßen: Du bist noch nicht dran, für dich habe ich besondere Pläne.",
-        T0011: "Leise, ich will dich gehen lassen. Du sitzt jetzt auf dein Pferd und reitest einfach weg. Solltest du die Polizei holen und wieder her kommen, werde ich schon längst weg sein. Also los!!!",
+        T0011: "Leise, ich will dich gehen lassen. Du sitzt jetzt auf dein Pferd und reitest einfach weg. Solltest du die Polizei holen und wieder her kommen, werde ich schon längst weg sein. Also los!!!"
       },
       narration: {
         N0001: dataForSave.nameProtagonist + " macht sich auf den Weg. Er besteigt sein Pferd Chester und reitet gemütlich und mit vielen Umwegen, um die Landschaft zu bewundern, zum alten Brunnen.",
@@ -44,28 +44,28 @@ namespace Game {
         NH: "Hinweispunkte + 1",
         NI001: "Revolver ins Inventar gepackt",
         NI002: "Messer ins Inventar gepackt",
-        NI003: "Zange ins Inventar gepackt",
+        NI003: "Zange ins Inventar gepackt"
       }
     };
 
     let weaponChoice = {
       gun: "Revolver",
-      knife: "Messer",
+      knife: "Messer"
     };
 
     let actionChoice = {
       grabWeapon: "Nach Waffe greifen",
-      talk: "Mit schwarzer Gestalt reden",
+      talk: "Mit schwarzer Gestalt reden"
     };
 
     let talkChoice1 = {
       whoareyou: "Hey, wer bist du?",
-      letmego: "Lass mich gehen, bitte",
+      letmego: "Lass mich gehen, bitte"
     };
 
     let talkChoice2 = {
       notgettingaway: "Damit wirst du nicht durchkommen",
-      please: "Ich bitte dich",
+      please: "Ich bitte dich"
     };
 
     let chosenKnife = false;
@@ -74,6 +74,8 @@ namespace Game {
     await ƒS.Location.show(locations.stable);
     await ƒS.update(transitions.updownslider.duration, transitions.updownslider.alpha, transitions.updownslider.edge);
     
+    await ƒS.Character.show(characters.protagonist, characters.protagonist.pose.normal, ƒS.positionPercent(80, 90));
+    await ƒS.update(1);
     await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0001);
 
     
@@ -89,11 +91,12 @@ namespace Game {
         await ƒS.Speech.tell("", text.narration.NI002, true, "italic");
         chosenKnife = true;
         break;
-    };
+    }
 
     await ƒS.Location.show(locations.well);
     await ƒS.update(transitions.updownslider.duration, transitions.updownslider.alpha, transitions.updownslider.edge);
 
+    ƒS.Sound.play(sound.well, 0.1, true);
     await ƒS.Speech.tell("", text.narration.N0001, true, "italic");
     await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0002);
     await ƒS.Speech.tell("", text.narration.N0002, true, "italic");
@@ -105,6 +108,8 @@ namespace Game {
     await ƒS.Speech.tell("", text.narration.N0006, true, "italic");
     await ƒS.Speech.tell("", text.narration.N0007, true, "italic");
     await ƒS.Speech.tell("", text.narration.N0008, true, "italic");
+    ƒS.Sound.fade(sound.relax, 0, 0.5, false);
+    ƒS.Sound.play(sound.action, 0.1, true);
     await ƒS.Character.show(characters.murderer, characters.murderer.pose.normal, ƒS.positionPercent(20, 90));
     await ƒS.update(1);
     await ƒS.Speech.tell(characters.murderer, text.murderer.T0001);
@@ -115,6 +120,7 @@ namespace Game {
     switch (actionChoiceElement) {
       case actionChoice.grabWeapon:
         if (chosenKnife) {
+          ƒS.Sound.play(sound.knife, 0.2, false);
           await ƒS.Speech.tell("", text.narration.N0010, true, "italic");
           await ƒS.Speech.tell("", text.narration.N0011, true, "italic");
           await ƒS.Character.hide(characters.murderer);
@@ -129,6 +135,8 @@ namespace Game {
           await ƒS.update(1);
           ƒS.Speech.clear();
           ƒS.Speech.hide();
+          ƒS.Sound.fade(sound.action, 0, 0.5, false);
+          ƒS.Sound.fade(sound.well, 0, 0.5, false);
           await ƒS.Location.show(locations.black);
           await ƒS.update(2);
         }
@@ -144,6 +152,8 @@ namespace Game {
           await ƒS.update(1);
           ƒS.Speech.clear();
           ƒS.Speech.hide();
+          ƒS.Sound.fade(sound.action, 0, 0.5, false);
+          ƒS.Sound.fade(sound.well, 0, 0.5, false);
           await ƒS.update(1);
           return "bad_ending";
         }
@@ -175,6 +185,8 @@ namespace Game {
             await ƒS.update(1);
             ƒS.Speech.clear();
             ƒS.Speech.hide();
+            ƒS.Sound.fade(sound.action, 0, 0.5, false);
+            ƒS.Sound.fade(sound.well, 0, 0.5, false);
             await ƒS.Location.show(locations.black);
             await ƒS.update(2);
             break;
@@ -205,6 +217,8 @@ namespace Game {
                 await ƒS.update(1);
                 ƒS.Speech.clear();
                 ƒS.Speech.hide();
+                ƒS.Sound.fade(sound.action, 0, 0.5, false);
+                ƒS.Sound.fade(sound.well, 0, 0.5, false);
                 await ƒS.Location.show(locations.black);
                 await ƒS.update(2);
                 break;
@@ -220,12 +234,14 @@ namespace Game {
                 await ƒS.update(1);
                 ƒS.Speech.clear();
                 ƒS.Speech.hide();
+                ƒS.Sound.fade(sound.action, 0, 0.5, false);
+                ƒS.Sound.fade(sound.well, 0, 0.5, false);
                 await ƒS.update(1);
                 return "bad_ending";
-            };
+            }
             break;
-        };
+        }
         break;
-    };
+    }
   }
 }

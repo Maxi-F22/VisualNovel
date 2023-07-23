@@ -9,7 +9,7 @@ namespace Game {
         T0004: "Die Zähne fehlen, aber warum? Ist mir bei ihr vorher nie aufgefallen.",
         T0005: "Ich habe ja vorhin erzählt, dass mir der Mörder begegnet ist. Habt ihr schon Leute zum alten Brunnen geschickt?",
         T0006: "Ich hab beim wegreiten was vom Boden aufgehoben, so eine Art Zahnarztzange. Ihr könnt ja mal schauen, ob die vielleicht irgendwie zum Mörder führen könnte.",
-        T0007: "Das ist ja schrecklich! Und habt ihr sonst noch irgendwelche Anhaltspunkte?",
+        T0007: "Das ist ja schrecklich! Und habt ihr sonst noch irgendwelche Anhaltspunkte?"
       },
       sheriff: {
         T0001: "Schau mal hier.",
@@ -20,14 +20,14 @@ namespace Game {
         T0006: dataForSave.nameProtagonist + " hat sie gefunden, als der Mörder ihn angegriffen hat.",
         T0008: "Leider nicht. Deswegen bist du ja da, um uns zu helfen.",
         T0009: "Danke Deputy, sie können abtreten.",
-        T0011: "Wie wärs, sollen wir als nächstes zum alten Brunnen, damit du mit deiner Gabe schauen kannst, ob dir etwas auffällt, das wir übersehen haben oder sollen wir zum Friedhof, dem Ort, wo die letzte Leiche gefunden wurde?",
+        T0011: "Wie wärs, sollen wir als nächstes zum alten Brunnen, damit du mit deiner Gabe schauen kannst, ob dir etwas auffällt, das wir übersehen haben oder sollen wir zum Friedhof, dem Ort, wo die letzte Leiche gefunden wurde?"
       },
       deputy: {
         T0001: "Hallo Sheriff, sie haben Glück, ich bin gerade wieder da vom Postbüro. Warum liegt da eine Zahnarztzange?",
         T0002: "Oh, interessant.",
         T0003: "Sheriff, wir haben noch eine Leiche gefunden, am alten Brunnen. Beziehungsweise der alte Jenkins hat sie gefunden. Hat behauptet, das ist seine Lieblingsstelle im Dorf. Genau das gleiche Muster, wie bei den anderen Opfern. Die Schneidezähne 11 und 21 fehlen.",
         T0004: "Ach nichts besonderes, mein Adoptivvater ist Doktor für Zähne drüben in Jamestown.",
-        T0005: "Nein, soweit ich es beurteilen konnte nicht. Das einzige, was alle Opfer gemein haben sind die Zähne.",
+        T0005: "Nein, soweit ich es beurteilen konnte nicht. Das einzige, was alle Opfer gemein haben sind die Zähne."
       },
       narration: {
         N0001: "(" + dataForSave.nameProtagonist + " schaut genauer hin)",
@@ -35,21 +35,23 @@ namespace Game {
         N0003: "Deputy kommt in den Raum.",
         N0004: "Deputy verlässt Raum.",
         NH: "Hinweispunkte + 1",
-        NI001: "Revolver ins Inventar gepackt",
+        NI001: "Revolver ins Inventar gepackt"
       }
     };
 
     let askDeputyChoice = {
       teeth: "Oh wow, warum kennen Sie sich so gut mit Zähnen aus?",
-      other: "Gibt es noch etwas anderes Auffälliges?",
+      other: "Gibt es noch etwas anderes Auffälliges?"
     };
 
     let nextPlaceChoice = {
       graveyard: "Zum Friedhof",
       well: "Zum Brunnen",
-      accuse: "Nicht so schnell, ich habe bereits eine Vermutung, wer es sein könnte",
+      accuse: "Nicht so schnell, ich habe eine Vermutung"
     };
+    ƒS.Speech.hide();
 
+    ƒS.Sound.play(sound.west, 0.1, true);
     await ƒS.Location.show(locations.chapter2);
     await ƒS.update(5);
 
@@ -116,7 +118,7 @@ namespace Game {
           await ƒS.Speech.tell(characters.deputy, text.deputy.T0005);
           await ƒS.Speech.tell(characters.sheriff, text.sheriff.T0009);
           break;
-      };
+      }
 
       await ƒS.Speech.tell("", text.narration.N0004, true, "italic");
       await ƒS.Character.hide(characters.deputy);
@@ -135,6 +137,7 @@ namespace Game {
         await ƒS.update(1);
         ƒS.Speech.clear();
         ƒS.Speech.hide();
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
         await ƒS.Location.show(locations.black);
         await ƒS.update(2);
         return "chapter_three_graveyard";
@@ -144,12 +147,13 @@ namespace Game {
         await ƒS.update(1);
         ƒS.Speech.clear();
         ƒS.Speech.hide();
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
         await ƒS.Location.show(locations.black);
         await ƒS.update(2);
         return "chapter_three_well_beginning";
       case nextPlaceChoice.accuse:
         return "chapter_two_accusation";
-    };
+    }
 
   }
 }

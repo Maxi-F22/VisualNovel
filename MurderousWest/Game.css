@@ -18,8 +18,7 @@ canvas {
 
 /***** SPLASH SCREEN *****/
 dialog[type="splash"] {
-  background-image: url("Images/Backgrounds/Background.png");
-  background-repeat: repeat;
+  background-image: url("Images/Backgrounds/dream.png");
   margin: 0px;
   padding: 0px;
   width: 100vw;
@@ -32,11 +31,23 @@ dialog[type="splash"] {
   z-index: 10;
 }
 
-dialog[type="splash"] > p {
-  font-size: 5em;
+dialog[type="splash"] > span {
+  position: absolute;
+  font-size: 2em;
   color: white;
   text-align: center;
-  background-color:rgb(16, 165, 41);
+  bottom: 100px;
+  left: 50%;
+  margin-left: -300px;
+  width: 600px;
+  background-color: rgba(0, 128, 128, 0.64);
+  border-radius: 20px;
+}
+
+dialog[type="splash"] > h1 {
+  font-size: 6em;
+  color: white;
+  text-align: center;
 }
 
 #FudgeStoryLogo {
@@ -51,10 +62,135 @@ dialog[type=splash]>img#FudgeStoryLogo {
   margin-bottom: 200px;
 }
 
+dialog[type="inventory"] {
+  background-color: teal;
+  border: none;
+  border-radius: 30px;
+
+}
+
+dialog[type="inventory"]>button {
+  border: none;
+  border-radius: 4px;
+  width: 160px;
+  height: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+dialog[type="inventory"]>ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+dialog[type="inventory"] li {
+  list-style-type: none;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0;
+  width: 300px;
+  height: 240px;
+  text-align: center;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+
+dialog[type="inventory"]>ul img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 130px;
+  left: 110px;
+  
+}
+dialog[type="inventory"]>ul name {
+  width: 100%;
+  text-align: center;
+  margin-left: 0px;
+  color: white;
+  font-size: 2em;
+}
+dialog[type="inventory"]>ul amount {
+  position: absolute;
+  top: 25px;
+  left: 40px;
+  color: white;
+  font-size: 1.3em;
+}
+dialog[type="inventory"]>ul description {
+  text-align: center;
+  color: white;
+  font-size: 1.3em;
+}
+
+.accusemenu {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  margin-left: -250px;
+  width: 500px;
+  height: 200px;
+  background-color: #FFFFFF80;
+  border-radius: 10px;
+  border: none;
+}
+
+.accusemenu u {
+  font-size: 2em;
+}
+
 .accusemenu-input {
   position: absolute;
-  top: 200px;
-  left: 900px;
+  display: flex;
+  justify-content: space-between;
+  top: 400px;
+  left: 50%;
+  margin-left: -650px;
+  width: 1300px;
+  height: 50px;
+  background-color: #FFFFFF80;
+  border-radius: 10px;
+  border: none;
+}
+.accusemenu-input button {
+  border: none;
+  border-radius: 4px;
+  width: 250px;
+  height: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.2em;
+  background-color: teal;
+  color: white;
+}
+
+.game-menu {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  top: 50%;
+  left: 50%;
+  margin-top: -35px;
+  margin-left: -400px;
+  width: 800px;
+  height: 70px;
+  background-color: #FFFFFF80;
+  border-radius: 10px;
+  border: none;
+}
+.game-menu button {
+  width: 180px;
+  height: 50px;
+  margin: 10px;
+  background-color: teal;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  font-size: 1em;
+  font-family: 'Courier New', Courier, monospace;
+}
+.game-menu button:hover {
+  background-color: rgb(0, 111, 111);
 }
 
 /***** SPEECH, CONTENT, NAMES *****/
@@ -83,6 +219,35 @@ name {
   margin-bottom: 20px;
   margin-left: 100px;
   margin-top: 20px;
+}
+
+.choices {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -400px;
+  width: 800px;
+  height: 100px;
+  background-color: #FFFFFF80;
+  border-radius: 10px;
+  border: none;
+}
+.choices button {
+  width: 350px;
+  height: 80px;
+  margin: 10px;
+  background-color: teal;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  font-size: 1.2em;
+  font-family: 'Courier New', Courier, monospace;
+}
+.choices button:hover {
+  background-color: rgb(0, 111, 111);
 }
 
 .italic {

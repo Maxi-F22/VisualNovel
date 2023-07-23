@@ -31,10 +31,14 @@ declare namespace Game {
         };
     };
     let sound: {
-        nightclub: string;
-        coin: string;
-        cough: string;
-        river: string;
+        action: string;
+        dream: string;
+        relax: string;
+        west: string;
+        accuse: string;
+        gun: string;
+        knife: string;
+        well: string;
     };
     let locations: {
         stable: {

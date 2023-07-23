@@ -9,7 +9,7 @@ namespace Game {
         T0004: "Würdest du Deputy nochmal hereinbitten?",
         T0005: "Deputy, nimm bitte... den Sheriff fest.",
         T0006: "Es macht alles Sinn. Du benutzt deinen Deckmantel als Sheriff um die Morde zu begehen und sie zu vertuschen. Ich bin mir sicher.",
-        T0007: "Sheriff, ich glaube dass der Deputy irgendwas zu verbergen hat.",
+        T0007: "Sheriff, ich glaube dass der Deputy irgendwas zu verbergen hat."
       },
       sheriff: {
         T0001: "Was? Komm schon, ich weiß, dass du diese Gabe geerbt hast, aber so gut kannst du doch auch nicht sein. Woher willst du denn jetzt schon wissen wer es war?",
@@ -19,11 +19,11 @@ namespace Game {
         T0005: "Bist du denn von allen guten Geistern verlassen Junge? Was soll denn das?",
         T0006: "Das ist alles ein Fehler! Warum sollte ich diese Morde begehen?",
         T0007: "Deputy, sofort herkommen!",
-        T0008: "Wir ziehen am besten noch keine voreiligen Schlüsse. Los, machen wir uns auf die Suche nach ihr! Vielleicht gehen wir dafür an die Orte, von denen wir wissen, dass der Mörder sie besucht hat.",
+        T0008: "Wir ziehen am besten noch keine voreiligen Schlüsse. Los, machen wir uns auf die Suche nach ihr! Vielleicht gehen wir dafür an die Orte, von denen wir wissen, dass der Mörder sie besucht hat."
       },
       deputy: {
         T0001: "Sheriff, Hände hoch und mitkommen!!!",
-        T0002: "Erklär das dem Richter!",
+        T0002: "Erklär das dem Richter!"
       },
       policeman: {
         T0001: "Sheriff, sie ist vor etwa 10 Minuten gegangen. Sie wollte uns nicht sagen wohin aber sie sah aus, als hätte sie es ziemlich eilig."
@@ -32,13 +32,13 @@ namespace Game {
         N0001: "Deputy kommt in den Raum",
         N0002: "Nachdem der Sheriff im Gefängnis gelandet ist, hören die Morde für ein paar Wochen auf. Doch als sich der Staub gelegt hat, fangen sie wieder an. Noch schlimmer und brutaler als zuvor. " + dataForSave.nameProtagonist + " sieht seinen Irrtum ein und versucht den Sheriff aus dem Gefängnis zu holen. Doch an dem Tag, als er das versuchen möchte, geschieht es. Es erwischt ihn auf seinem Hof, gerade als er die Pferde füttern möchte. Das neueste Opfer des Mörders ist " + dataForSave.nameProtagonist + ".",
         N0003: "(Stille)",
-        NH: "Hinweispunkte + 1",
+        NH: "Hinweispunkte + 1"
       }
     };
 
     let lookForDeputyChoice = {
       well: "Na gut, auf zum Brunnen",
-      graveyard: "Na gut, auf zum Friedhof",
+      graveyard: "Na gut, auf zum Friedhof"
     };
 
     await ƒS.Speech.tell(characters.sheriff, text.sheriff.T0001);
@@ -77,12 +77,15 @@ namespace Game {
             accusationInput = await ƒS.Menu.getInput(accusation, "accusemenu-input");
             switch (accusationInput) {
               case accusation.jenkins: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "jenkins";
                 break;
               case accusation.sheriff: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "sheriff";
                 break;
               case accusation.deputy: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "deputy";
                 break;
             }
@@ -107,12 +110,15 @@ namespace Game {
             accusationInput = await ƒS.Menu.getInput(accusation, "accusemenu-input");
             switch (accusationInput) {
               case accusation.jenkins: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "jenkins";
                 break;
               case accusation.sheriff: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "sheriff";
                 break;
               case accusation.deputy: 
+                ƒS.Sound.play(sound.accuse, 0.2, false);
                 dataForSave.chapter2Accused = "deputy";
                 break;
             }
@@ -128,6 +134,7 @@ namespace Game {
       await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0003);
       await ƒS.Speech.tell(characters.sheriff, text.sheriff.T0003);
       await ƒS.Location.show(locations.well);
+      ƒS.Sound.fade(sound.west, 0, 0.5, false);
       await ƒS.update(transitions.updownslider.duration, transitions.updownslider.alpha, transitions.updownslider.edge);
       return "chapter_three_well_interrogation";
     }
@@ -152,6 +159,7 @@ namespace Game {
       await ƒS.Speech.tell("", text.narration.N0002, true, "italic");
       ƒS.Speech.clear();
       ƒS.Speech.hide();
+      ƒS.Sound.fade(sound.west, 0, 0.5, false);
       await ƒS.Location.show(locations.black);
       await ƒS.update(2);
       return "bad_ending";
@@ -174,9 +182,9 @@ namespace Game {
       await ƒS.Character.hide(characters.protagonist);
       await ƒS.Character.hide(characters.sheriff);
       await ƒS.update(1);
-      await ƒS.Speech.tell("", text.narration.N0002, true, "italic");
       ƒS.Speech.clear();
       ƒS.Speech.hide();
+      ƒS.Sound.fade(sound.west, 0, 0.5, false);
       await ƒS.Location.show(locations.black);
       await ƒS.update(2);
   
@@ -185,7 +193,7 @@ namespace Game {
           return "chapter_three_well_beginning";
         case lookForDeputyChoice.graveyard:
           return "chapter_three_graveyard";
-      };
+      }
     }
   }
 }

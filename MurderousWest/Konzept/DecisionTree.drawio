@@ -1,0 +1,1140 @@
+<mxfile host="Electron" modified="2023-07-23T18:12:31.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="8p4ITR668hZlv2h4RmIG" version="21.6.1" type="device">
+  <diagram name="Seite-1" id="oS4QZ9qFav_6LP0d89oQ">
+    <mxGraphModel dx="7581" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-2" target="oH5baXMhosWWVNXAdIbK-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-2" target="oH5baXMhosWWVNXAdIbK-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-2" value="&lt;i style=&quot;&quot;&gt;Ort: Stall des MC&lt;br&gt;MC, Cowboy&amp;nbsp;&lt;/i&gt;Jenkins&lt;br&gt;&lt;br&gt;MC: Und hier haben wir ihr Pferd. Sein Name ist Hopper und wie man unschwer erkennen kann, ist er der Nachkomme ihres letzten Pferdes.&lt;br&gt;&lt;br&gt;Jenkins: Danke. Er wird sich noch an mich gewöhnen müssen aber ich werde ihn genau so gut behandeln wie seinen alten Herrn, das kannst du mir glauben Junge.&lt;br&gt;&lt;br&gt;MC: Es tut mir immer noch leid für ihr altes Pferd.&lt;br&gt;&lt;br&gt;Jenkins: Ach er hatte ein langes und erfülltes Leben und jetzt gallopiert er eben an einem anderen Ort weiter.&lt;br&gt;&lt;br&gt;MC: Ja... Haben Sie eigentlich gehört was so in der Stadt los ist? Ich habe hier draußen nicht so viel mitbekommen.&lt;br&gt;&lt;br&gt;Jenkins: Heutzutage bin ich ja nicht mehr viel in der Stadt unterwegs. Bin lieber auf meiner Ranch, reite durch die Prärie oder bin an meinem liebsten Platz hier im Ort, am alten abgebrannten Baumstumpf westlich von hier. Aber ein paar Sachen habe selbst ich gehört. Es treibt anscheinen ein Mörder sein Unwesen in der Stadt." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="224" y="290" width="380" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-9" target="oH5baXMhosWWVNXAdIbK-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-9" value="Jenkins: Ganz genau! Und noch dazu ein Serienkiller wie es scheint. 3 Leichen wurden bereits gefunden. 2 weitere Menschen werden vermisst.&lt;br&gt;&lt;br&gt;MC: Oh Gott! Und sie haben immer noch nicht herausgefunden wer dahintersteckt?&lt;br&gt;&lt;br&gt;Jenkins: Leider nicht mein Sohn. Leider nicht.&lt;br&gt;&lt;br&gt;MC: Aber, aber... Es gab keine Morde mehr in dieser Stadt seit..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="39" y="880" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-10" target="oH5baXMhosWWVNXAdIbK-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-10" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Intro: Der Traum&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="354" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-11" target="oH5baXMhosWWVNXAdIbK-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-11" value="Jenkins: Hör zu Junge! Ich hab besseres zu tun als mich hier von nem Jungspund wie dir als Lügner bezeichnen zu lassen. Das Ganze ist kein Witz. 3 Leute hat der Typ schon auf dem Gewissen und 2 weitere werden vermisst. Danke für das Pferd aber jetzt muss ich auch wirklich mal los.&lt;br&gt;&lt;br&gt;MC: Nein warten Sie! Es tut mir leid, ich war nur so erschrocken darüber, was Sie gesagt haben. Ein Mörder? Hier? Es gab keine Morde mehr in dieser Stadt seit...&lt;br&gt;&lt;br&gt;Jenkins: Ich weiß mein Sohn, ich weiß..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="539" y="885" width="250" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-14" target="oH5baXMhosWWVNXAdIbK-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-14" value="&lt;i&gt;Ort: Stall des MC&lt;/i&gt;&lt;br&gt;&lt;i&gt;MC&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Der Cowboy reitet auf seinem neuen Pferd davon. Die Staubwolke, die den Beiden folgt, als Hopper über den trockenen Wüstenboden gallopiert, legt sich langsam und hinter ihr kommt der Sonnenuntergang zum Vorschein.&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC:&amp;nbsp;So, es wird spät. Zeit, die Tiere in den Stall zu bringen und dann gehts ab in die Falle für mich.&lt;br&gt;&lt;br&gt;(Hauptcharakter geht weg, Fade to black)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="264" y="1320" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-15" target="ZbgB--3DV1xBlgOyYZWp-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-15" value="(Schwarzer Hintergrund)&lt;br&gt;&lt;i style=&quot;&quot;&gt;Ort: Traum von MC&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Vater von MC, Schwarz angezogener Cowboy&lt;/i&gt;&lt;br&gt;&lt;br&gt;Vater:&amp;nbsp;Hände hoch! Sie sind umzingelt!&lt;br&gt;&lt;br&gt;Cowboy: Pah! Ich glaube nicht, dass ihr wirklich auf mich schießen werdet ihr Schweine.&lt;br&gt;&lt;br&gt;Vater: Ach ja? Und warum nicht?&lt;br&gt;&lt;br&gt;Cowboy: Ich habe hier vier Menschen hinter dem Tresen sitzen und wenn ihr auch nur in die Nähe dieser Bank kommt, werde ich sie Einen nach dem Anderen abknallen!&lt;br&gt;&lt;br&gt;Vater: Es muss niemand sterben! Was wollen Sie genau?&lt;br&gt;&lt;br&gt;Cowboy: Ich will das ganze Geld aus dem Tresor in meinen Sack packen. Dann werde ich zusammen mit dem Geld und einer Geisel auf mein Pferd sitzen und in Richtung Osten verschwinden. Solltet ihr mir folgen, stirbt die Geisel.&lt;br&gt;&lt;br&gt;Vater (zu seinen Kollegen): Es bleibt uns nichts anderes übrig, als ihm zu gehorchen. Es darf niemand sterben!&lt;br&gt;&lt;br&gt;Vater (zu Cowboy): Na schön. Wir lassen Sie wegreiten. Was passiert mit der Geisel?&lt;br&gt;&lt;br&gt;Cowboy: Ich sehe Sie sind vernünftig, Sheriff. Die Geisel werde ich am alten Brunnen gehen lassen. Aber falls ihr dort auf mich wartet, wisst ihr was passiert.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Der Cowboy folgt seinem Plan und beginnt mit der Geisel nach Osten zu reiten. Nach 100 Metern passiert jedoch etwas unerwartetes. Die Geisel zappelt so auf dem Pferd herum dass sie schließlich auf den Boden fällt und von dem Cowboy wegrollt.&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Cowboy: Ach verdammt. Komm sofort wieder hier hoch du Mistkerl.&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Doch genau auf so eine Situation haben der Sheriff und seine Leute gewartet. Sie warten bis die Geisel weit genug weg ist und fangen an, auf den Cowboy zu schießen. Dieser springt von seinem Pferd ab und sucht Deckung hinter einer nahgelegen Mauer.&lt;br&gt;&lt;/i&gt;&lt;br&gt;Vater: Das Ganze wird nicht gut für Sie ausgehen. Ergeben Sie sich einfach.&lt;br&gt;&lt;br&gt;Cowboy: Sie wissen gar nichts über mich Sheriff. Ich muss das hier tun. Meine Kleine...&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Verzweifelt beginnt der Cowboy zurückzuschießen. Er liefert sich einen heftigen Schusswechsel mit den Polizisten bis schließlich...&lt;br&gt;&lt;/i&gt;&lt;br&gt;Vater: Ahhh...&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Ein Schuss des Cowboys trifft den Sheriff genau über seinem Abzeichen in die Brust. Vor Schmerzen zuckend, schießt der Sheriff noch ein letztes Mal seinen Revolver bevor er zusammensackt.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Stille...&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Von beiden Seiten ertönen keine Schüsse mehr. Während drei der Polizisten sich um ihren Sheriff kümmern, gehen zwei andere nachsehen, was mit dem Cowboy passiert ist. Als sie hinter die Mauer sehen, liegt er da, in einer Blutlache. Der letzte Schuss des Sheriffs hat ihn genau zwischen die Augen getroffen.&lt;br&gt;&lt;/i&gt;&lt;br&gt;Vater: Bringt mich zum Doktor! Ich muss noch so viel erledigen. Mein Sohn... Seine Gabe... Er... soll sie nutzen um Gutes zu bewirken...&lt;br&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;Später...&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Polizist: Es tut mir so Leid Junge, dein Vater... Er... Er ist an seinen Verletzungen auf dem Weg zum Arzt gestorben. Das letzte, was er sagte war...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#182E3E;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="266" y="1580" width="296" height="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-17" target="oH5baXMhosWWVNXAdIbK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-17" value="Was, ein Mörder?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="104" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="oH5baXMhosWWVNXAdIbK-18" target="oH5baXMhosWWVNXAdIbK-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oH5baXMhosWWVNXAdIbK-18" value="Sie wollen mich verarschen oder?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="604" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="XI85GRcWOU1lPJ3YcHnl-1" target="ZbgB--3DV1xBlgOyYZWp-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="XI85GRcWOU1lPJ3YcHnl-1" target="ZbgB--3DV1xBlgOyYZWp-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XI85GRcWOU1lPJ3YcHnl-1" value="&lt;i&gt;Ort: Schlafzimmer&lt;br&gt;&lt;/i&gt;Schweißgebadet wacht MC auf.&lt;br&gt;&lt;br&gt;MC: Verdammt, immer wieder dieser Albtraum. Allerdings hatte ich ihn echt schon lange nicht mehr. Wahrscheinlich haben mich diese Morde in der Stadt daran erinnert. Das war das letzte Mal dass es hier gewaltsame Tode gab.&amp;nbsp;&lt;br&gt;&lt;br&gt;MC (blickt in den Himmel): Vater, es tut mir Leid, dass ich deiner letzten Bitte nicht nachkommen konnte, aber ich bekomme immer noch Panikattacken wenn ich daran denke, auch Sheriff zu werden.&lt;br&gt;&lt;br&gt;MC: Naja, es ist eh Zeit zum Aufstehen. Aber was mache ich jetzt zuerst?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#182E3E;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="266" y="3060" width="296" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-4" target="ZbgB--3DV1xBlgOyYZWp-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-4" value="Frühstücken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#182E3E;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="154" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-5" target="ZbgB--3DV1xBlgOyYZWp-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-5" value="Die Pferde füttern" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="552" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-6" target="XI85GRcWOU1lPJ3YcHnl-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-6" value="Kapitel 1&amp;nbsp; - Die Bitte" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="354" y="2940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-7" target="ZbgB--3DV1xBlgOyYZWp-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-7" value="&lt;i&gt;Ort: Schlafzimmer&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC: Oh ja, jetzt ein gutes deftiges Frühstück. Warte mal, mir fällt gerade ein, dass ich gar kein Brot mehr da habe. Ich geh wohl besser zum Hof vom alten Bäcker und hole ein paar Laibe." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="104" y="3530" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-8" target="ZbgB--3DV1xBlgOyYZWp-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-8" target="ZbgB--3DV1xBlgOyYZWp-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-8" value="Ort: Brunnen&lt;br&gt;&lt;br&gt;&lt;i&gt;MC macht sich auf den Weg. Er besteigt sein Pferd Chester und reitet gemütlich und mit vielen Umwegen, um die Landschaft zu bewundern, zum alten Brunnen.&lt;br&gt;&lt;/i&gt;&lt;br&gt;MC: Ach ja, mein Lieblingsplatz hier in der Gegend. So, das Pferd kann hier trinken und grasen und ich machs mir auch gemütlich.&lt;br&gt;&lt;br&gt;&lt;i&gt;Nach einer Weile ist ein leichtes Schnarchen zu hören, während MC sich mit dem Hut über den Augen in der Sonne ausruht.&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;i&gt;Doch plötzlich reißt ihn das Geräusch eines brechenden Astes aus dem Schlaf.&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;KNACK!!!&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC: Hallo, ist da jemand???&lt;br&gt;&lt;br&gt;(Stille)&lt;br&gt;&lt;br&gt;MC: Naja Chester, hab ich mir wohl nur eingebildet. Da war niema...&lt;br&gt;&lt;br&gt;&lt;i&gt;PONK!!!&lt;br&gt;&lt;br&gt;Ein dumpfer Schlag trifft MC am Kopf und er verliert das Bewusstsein. Als er wieder zu sich kommt, ist er an Armen und Beinen gefesselt.&lt;br&gt;&lt;br&gt;Er hört eine Stimme, die sehr offensichtlich verstellt ist.&lt;/i&gt;&lt;br&gt;&lt;br&gt;???: Warum bist du hier? Es sollte niemand hier sein!&lt;br&gt;&lt;br&gt;Mit verschwommener Sicht, nimmt MC eine vermummte Gestalt ganz in schwarz wahr. Neben ihr auf dem Boden liegt ein Mehlsack in Form eines Menschen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="502" y="4030" width="220" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-10" target="ZbgB--3DV1xBlgOyYZWp-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-10" value="&lt;i&gt;Ort: Stadt&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;An der Tür vom Haus des Bäckers&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC: Danke für das Brot und Grüß deine Frau und deine Kinder von mir!&lt;br&gt;&lt;br&gt;&lt;i&gt;MC verlässt das Grundstück und macht sich auf den Weg Richtung zuhause.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="106" y="3942" width="216" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-13" target="ZbgB--3DV1xBlgOyYZWp-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-13" value="Neuer Gegenstand im Inventar: Brot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="136" y="3740" width="156" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-16" target="ZbgB--3DV1xBlgOyYZWp-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-16" target="ZbgB--3DV1xBlgOyYZWp-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-16" value="Ort: Stadt&lt;br&gt;MC, Neuer Sheriff, Deputy Sheriff&lt;br&gt;&lt;br&gt;Sheriff: MC, gut dass wir dich zufällig hier treffen. Wir waren eh auf dem Weg zu dir nach Hause.&lt;br&gt;&lt;br&gt;MC: Hallo Sheriff, Hallo Deputy, Was kann ich für euch tun?&lt;br&gt;&lt;br&gt;Deputy: Du hast doch sicher von diesen schrecklichen, grauenhaften Morden gehört, die zurzeit die Stadt heimsuchen oder?&lt;br&gt;&lt;br&gt;MC: Ja, also der alte Jenkins hat mir ein wenig erzählt. Schrecklich das Ganze! Aber was hat das mit mir zu tun?&lt;br&gt;&lt;br&gt;Sheriff: Dein alter Herr war der beste Sheriff, den diese Stadt jemals hatte. Und wir wissen, dass seine Auffassungsgabe und sein Gespür auf dich übergegangen sind.&lt;br&gt;&lt;br&gt;MC: Oh nein, es tut mir Leid aber ich kann euch nicht helfen. Die Panikattacken...&lt;br&gt;&lt;br&gt;Sheriff: Das verstehen wir und wir würden dich auch niemals bitten, wenn es nicht so wichtig wäre. Wir sind mit unseren Kräften langsam echt am Ende. Niemand hat auch nur eine Ahnung, wie wir weiter vorgehen könnten." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="107" y="4210" width="214" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-17" target="ZbgB--3DV1xBlgOyYZWp-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-17" value="Einwilligen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-18" target="ZbgB--3DV1xBlgOyYZWp-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-18" value="Ablehnen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="4840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-19" target="a_588HEZvl3vcVWjfH1_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-19" value="MC: Na gut, ich höre mir zumindest mal an, wo euer Problem liegt. Aber sobald es mir zu viel wird, werde ich nach Hause gehen!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="4950" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-20" target="ZbgB--3DV1xBlgOyYZWp-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="4200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-20" value="MC: Nochmal, es tut mir Leid aber ich kann euch nicht helfen. Ich muss nach Hause und meine Pferde füttern." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="4950" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-22" target="a_588HEZvl3vcVWjfH1_-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-22" target="a_588HEZvl3vcVWjfH1_-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-22" value="Ort: Sheriff Büro&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MC, Neuer Sheriff&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MC: Ok, was wolltet ihr mir denn zeigen?&lt;br&gt;&lt;br&gt;Sheriff: Schau mal hier.&lt;br&gt;&lt;br&gt;MC: Oh Gott ihr hättet mich auch ruhig vorwarnen können bevor ihr mir hier eine Leiche zeigt.&lt;br&gt;&amp;nbsp;(MC schaut genauer hin)&lt;br&gt;MC: Ist das etwa die Frau des alten Fischers? Wer würde so etwas schreckliches tun?&lt;br&gt;&lt;br&gt;Sheriff: Das ist die Frage. Uns ist noch etwas aufgefallen. Schau mal in ihren Mund.&lt;br&gt;&lt;br&gt;Als MC in den Mund der Verstorbenen blickt fällt ihm direkt auf, dass die beiden oberen vorderen Schneidezähne fehlen.&lt;br&gt;&lt;br&gt;MC: Die Zähne fehlen, aber warum? Ist mir bei ihr vorher nie aufgefallen.&lt;br&gt;&lt;br&gt;Sheriff: Wir vermuten, dass sie erst nach dem Tod entfernt wurden. Bei den anderen Opfern ist es genau dasselbe." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1107" y="4925" width="280" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-24" target="a_588HEZvl3vcVWjfH1_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-24" value="MC: Sheriff, ich brauch Hilfe, ich wurde angegriffen von einer schwarz vermummten Gestalt. Wahrscheinlich war es der Mörder. Auch wenn es mir nicht gefällt, ich werde euch helfen ihn zu suchen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="5240" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-51" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="600" y="5620" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-53" target="ZbgB--3DV1xBlgOyYZWp-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-53" target="ZbgB--3DV1xBlgOyYZWp-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-53" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Ort: Stall des MC&lt;/i&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MC: So, damit wären nun alle Pferde gefüttert. Ich glaube ich werde nun einen kleinen Ausritt zum alten Brunnen machen. Aber mit dem Mörder, der hier auf freiem Fuß ist, nehme ich besser etwas zur Selbstverteidigung mit. Aber was am besten?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="503" y="3530" width="218" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-56" target="ZbgB--3DV1xBlgOyYZWp-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-56" value="Revolver" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="474" y="3810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-57" target="ZbgB--3DV1xBlgOyYZWp-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-57" value="Messer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-59" target="ZbgB--3DV1xBlgOyYZWp-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-59" value="Neuer Gegenstand im Inventar: Revolver" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="489" y="3900" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-60" target="ZbgB--3DV1xBlgOyYZWp-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-60" value="Neuer Gegenstand im Inventar: Messer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="635" y="3900" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-71" target="ZbgB--3DV1xBlgOyYZWp-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-71" target="ZbgB--3DV1xBlgOyYZWp-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-71" value="Nach Waffe greifen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="4870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-72" target="ZbgB--3DV1xBlgOyYZWp-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-72" target="ZbgB--3DV1xBlgOyYZWp-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-72" value="Mit schwarzer Gestalt reden" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-75" target="ZbgB--3DV1xBlgOyYZWp-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-75" value="Hey, wer bist du?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="830" y="4810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-76" target="ZbgB--3DV1xBlgOyYZWp-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-76" value="Lass mich gehen, bitte." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="830" y="4930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-79" target="ZbgB--3DV1xBlgOyYZWp-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-79" value="???: Halt die Schnauze, ich muss nachdenken.&lt;br&gt;&lt;br&gt;MC: Bist du der Mörder?&lt;br&gt;&lt;br&gt;???: Was denkst du, hmm?&lt;br&gt;&lt;br&gt;MC: Damit wirst du nie durchkommen!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="4765" width="224" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-80" target="ZbgB--3DV1xBlgOyYZWp-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-80" target="ZbgB--3DV1xBlgOyYZWp-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-80" value="???: Du solltest nicht hier sein, ich wollte nur...&lt;br&gt;&lt;br&gt;MC: Du wolltest was? Dein neuestes Opfer entsorgen oder was?&lt;br&gt;&lt;br&gt;???: Du kennst mich nicht. Ich entsorge meine Opfer nicht. Ich... Nein du wirst nichts aus mir herausbekommen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1017" y="4920" width="224" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-83" target="ZbgB--3DV1xBlgOyYZWp-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-83" value="???: Ok, es reicht mir jetzt mit dir.&lt;br&gt;&lt;br&gt;&lt;i&gt;Die Gestalt greift an den Gürtel, zieht eine Waffe und hält sie MC an die Brust.&lt;br&gt;&lt;/i&gt;&lt;br&gt;???: Grüß deinen Vater von mir." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="5410" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-86" target="ZbgB--3DV1xBlgOyYZWp-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-86" value="Ich bitte dich" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="5070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-87" target="ZbgB--3DV1xBlgOyYZWp-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-87" value="Damit wirst du nicht durchkommen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="4940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-91" target="ZbgB--3DV1xBlgOyYZWp-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-91" value="(Messer im Inventar)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="5120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-92" target="ZbgB--3DV1xBlgOyYZWp-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-92" value="(Revolver im Inventar)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="552" y="5120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-95" target="ZbgB--3DV1xBlgOyYZWp-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-95" value="???: Was ist das da an deinem Gürtel? Oh nein, so einfach ist das hier nicht mein Guter.&lt;br&gt;&lt;br&gt;MC: Du widerst mich an!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="5240" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-98" target="ZbgB--3DV1xBlgOyYZWp-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-98" value="???: Du nervst mit deinem Betteln, halt jetzt dein Maul!&lt;br&gt;&lt;br&gt;MC: Nein bitte bitte. Ich hab dir nichts getan." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="5410" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-102" value="???: Ok, wir machen es folgendermaßen: Du bist noch nicht dran, für dich habe ich besondere Pläne.&lt;br&gt;&lt;br&gt;MC: Bitte was, besondere Pläne?&lt;br&gt;&lt;br&gt;&lt;u&gt;+1 Hinweispunkt&lt;/u&gt;&lt;br&gt;&lt;br&gt;???: Leise, ich will dich gehen lassen. Du sitzt jetzt auf dein Pferd und reitest einfach weg. Solltest du die Polizei holen und wieder her kommen, werde ich schon längst weg sein. Also los!!!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1557" y="5025" width="230" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-105" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-102" target="ZbgB--3DV1xBlgOyYZWp-107" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="5470" as="sourcePoint" />
+            <mxPoint x="190" y="5420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="5920" />
+              <mxPoint x="440" y="5920" />
+              <mxPoint x="440" y="5500" />
+              <mxPoint x="210" y="5500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-107" target="a_588HEZvl3vcVWjfH1_-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-107" value="&lt;i&gt;Kurz vor dem Aufsteigen auf das Pferd, glänzt etwas am Boden. Als MC sich bückt, um es aufzuheben, wird es klar, dass es eine Zange ist, wie sie Zahnärzte benutzen um Zähne zu ziehen.&lt;br&gt;&lt;br&gt;Dann macht er sich auf in Richtung Stadt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="101" y="5240" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-109" target="ZbgB--3DV1xBlgOyYZWp-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbgB--3DV1xBlgOyYZWp-109" value="&lt;i&gt;Unauffällig zieht MC das Messer aus seinem Gürtel und schneidet die Fesseln an seinen Armen durch. &lt;br&gt;Danach löst er sich die Beinfesseln und stürzt ohne sich umzudrehen los in Richtung Chester.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="5240" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-1" target="ZbgB--3DV1xBlgOyYZWp-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-1" value="Kapitel 2 - Die Autopsie" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="5105" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#23445D;" parent="1" source="ZbgB--3DV1xBlgOyYZWp-22" target="ZbgB--3DV1xBlgOyYZWp-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-5" target="ZbgB--3DV1xBlgOyYZWp-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-5" value="Neuer Gegenstand im Inventar: Zange" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="5238" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-11" target="a_588HEZvl3vcVWjfH1_-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-11" value="(Falls Zange in Inventar)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1270" y="5460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-12" target="a_588HEZvl3vcVWjfH1_-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-12" value="(Falls Zange nicht in Inventar)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="5460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-13" target="a_588HEZvl3vcVWjfH1_-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-967" y="6430.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-13" value="MC: Ich habe ja vorhin erzählt, dass mir der Mörder begegnet ist. Habt ihr schon Leute zum alten Brunnen geschickt?&lt;br&gt;&lt;br&gt;Sheriff: Ja, aber als sie dort ankamen, war nur die Leiche vorzufinden. Vom Mörder keine Spur. Unterwegs haben sie nur den alten Jenkins getroffen, der zum Brunnen wollte. Hat behauptet, das ist sein Lieblingsplatz im Dorf. Und wieder das gleiche Muster beim Opfer, keine Schneidezähne mehr.&lt;br&gt;&lt;br&gt;MC: Ich hab beim wegreiten was vom Boden aufgehoben, so eine Art Zahnarztzange. Ihr könnt ja mal schauen, ob die vielleicht irgendwie zum Mörder führen könnte.&lt;br&gt;&lt;br&gt;Sheriff: Wow das ist ein wichtiger Fund. Ich gebe es gleich mal meiner Kollegin. Deputy, kommen Sie mal her.&lt;br&gt;&lt;br&gt;Deputy kommt in den Raum.&lt;br&gt;&lt;br&gt;Deputy: Hallo Sheriff, sie haben Glück, ich bin gerade wieder da vom Postbüro. Warum liegt da eine Zahnarztzange?&lt;br&gt;&lt;br&gt;Sheriff: MC hat sie gefunden, als der Mörder ihn angegriffen hat.&lt;br&gt;&lt;br&gt;Deputy: Oh interessant.&lt;br&gt;&lt;br&gt;&lt;u&gt;+1 Hinweispunkt&lt;/u&gt;&lt;br&gt;&lt;br&gt;Deputy verlässt Raum.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1335" y="5720" width="250" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-17" target="a_588HEZvl3vcVWjfH1_-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-17" target="a_588HEZvl3vcVWjfH1_-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-17" value="MC: Das ist ja schrecklich! Und habt ihr sonst noch irgendwelche Anhaltspunkte?&lt;br&gt;&lt;br&gt;Sheriff: Leider nicht. Deswegen bist du ja da, um uns zu helfen. &lt;br&gt;&lt;br&gt;Deputy kommt in den Raum&lt;br&gt;&lt;br&gt;Deputy: Sheriff, wir haben noch eine Leiche gefunden, am alten Brunnen. Beziehungsweise der alte Jenkins hat sie gefunden. Hat behauptet, das ist seine Lieblingsstelle im Dorf. Genau das gleiche Muster, wie bei den anderen Opfern. Die Schneidezähne 11 und 21 fehlen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-845" y="5540" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-20" target="a_588HEZvl3vcVWjfH1_-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-20" target="a_588HEZvl3vcVWjfH1_-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-20" target="a_588HEZvl3vcVWjfH1_-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-20" value="Sheriff: Wie wärs, sollen wir als nächstes zum alten Brunnen, damit du mit deiner Gabe schauen kannst, ob dir etwas auffällt, das wir übersehen haben oder sollen wir zum Friedhof, dem Ort, wo die letzte Leiche gefunden wurde?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1112" y="6630" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-21" target="a_588HEZvl3vcVWjfH1_-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-21" value="Oh wow, warum kennen Sie sich so gut mit Zähnen aus?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-917.5" y="5824" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-22" target="a_588HEZvl3vcVWjfH1_-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-22" value="Gibt es noch etwas anderes Auffälliges?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="5824" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-26" target="a_588HEZvl3vcVWjfH1_-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-26" value="Deputy: Ach nichts besonderes, mein Adoptivvater ist Doktor für Zähne drüben in Jamestown.&lt;br&gt;&lt;br&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;+1 Hinweispunkt&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sheriff: Danke Deputy, sie können abtreten." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1042.5" y="5964" width="290" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-29" target="a_588HEZvl3vcVWjfH1_-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-29" value="Deputy: Nein, soweit ich es beurteilen konnte nicht. Das einzige, was alle Opfer gemein haben sind die Zähne.&lt;br&gt;&lt;br&gt;Sheriff: Danke Deputy, sie können abtreten." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="5964" width="290" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-32" target="a_588HEZvl3vcVWjfH1_-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-967" y="6430.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-32" value="Deputy verlässt den Raum." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-865" y="6160" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-45" target="a_588HEZvl3vcVWjfH1_-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-45" value="Zum Friedhof" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="6870" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-46" target="a_588HEZvl3vcVWjfH1_-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-46" value="Zum Brunnen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1082" y="6870" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-47" target="a_588HEZvl3vcVWjfH1_-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-47" value="Nicht so schnell, ich habe bereits eine Vermutung, wer es sein könnte" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="6870" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-48" value="&lt;i&gt;&lt;u&gt;Beschuldigungsmenü&lt;/u&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Das Beschuldigungsmenü wird zu festen Punkten in Kapitel 3 geöffnet. Es stehen immer drei Charaktere zur Auswahl, die man beschuldigen kann, je nachdem welchen Pfad man geht.&lt;br&gt;&lt;br&gt;Bei Pfad 1 - Brunnen: Jenkins, Sheriff und Deputy&lt;br&gt;&lt;br&gt;Bei Pfad 2 - Friedhof: Patty, Sheriff und Deputy&lt;br&gt;&lt;br&gt;Außerdem kann man zum Schluss von Kapitel 2 ebenfalls frühzeitig beschuldigen.&lt;br&gt;&lt;br&gt;Hier stehen Jenkins, Sheriff und Deputy zur Auswahl.&lt;br&gt;&lt;br&gt;Man kann mit den gesammelten Hinweispunkten Hinweise im Beschuldigungsmenü kaufen, die die Identität des Mörders langsam aufdecken." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1060" y="290" width="380" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-53" target="a_588HEZvl3vcVWjfH1_-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-53" target="a_588HEZvl3vcVWjfH1_-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-53" value="Ort: Brunnen&lt;br&gt;&lt;br&gt;MC, Sheriff, Jenkins&lt;br&gt;&lt;br&gt;Sheriff: So da wären wir. Jenkins wird da hinten befragt von meinen Leuten, falls du auch noch mit ihm reden möchtest. Was willst du zuerst erledigen?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1112" y="7240" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-55" target="a_588HEZvl3vcVWjfH1_-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-55" value="Kapitel 3 - Die Suche&lt;br&gt;Pfad 1 - Friedhof" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1654" y="6885" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-56" target="a_588HEZvl3vcVWjfH1_-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-56" value="Kapitel 3 - Die Suche&lt;br&gt;Pfad 2 - Brunnen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1027" y="7070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-59" target="a_588HEZvl3vcVWjfH1_-209" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-59" target="a_588HEZvl3vcVWjfH1_-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-59" target="a_588HEZvl3vcVWjfH1_-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-59" value="Ort: Friedhof&lt;br&gt;&lt;br&gt;MC, Sheriff, Patty&lt;br&gt;&lt;br&gt;MC: Ok, also hier wurde die letzte Leiche gefunden was?&lt;br&gt;&lt;br&gt;Sheriff: Genau. Sie lag unter einem der Bäume da vorne.&lt;br&gt;&lt;br&gt;MC: Ist ja ganz praktisch, dass sie hier gefunden wurde was?&lt;br&gt;&lt;br&gt;Sheriff: ...&lt;br&gt;&lt;br&gt;MC: Ok, tut mir Leid. Zu früh... Wer ist das da vorne?&lt;br&gt;&lt;br&gt;Sheriff: Patty, was machen Sie denn hier?&lt;br&gt;&lt;br&gt;Patty (Weinend): Oh hallo Sheriff, es tut mir Leid falls ich störe, ich wollte mich nur nochmal von meinem Stan verabschieden.&lt;br&gt;&lt;br&gt;Sheriff: Sie stören doch keineswegs. Bleiben Sie nur hier, wir sind am Hinweise sammeln.&lt;br&gt;&lt;br&gt;Sheriff (zu MC): Ihr Mann war Stan. Er war die Leiche, die hier gefunden wurde.&lt;br&gt;&lt;br&gt;MC: Oh ok verstehe.&lt;br&gt;&lt;br&gt;MC (zu Patty): Mein aufrichtiges Beileid, Ma&#39;am&lt;br&gt;&lt;br&gt;&lt;i&gt;Patty nickt in MCs Richtung.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Sheriff: Alles klar, wir fangen am besten damit an, nochmal die Spuren hier zu untersuchen. Welche willst du anschauen?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2100" y="6820" width="290" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-62" target="a_588HEZvl3vcVWjfH1_-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-62" value="Sheriff: Was? Komm schon, ich weiß, dass du diese Gabe geerbt hast, aber so gut kannst du doch auch nicht sein. Woher willst du denn jetzt schon wissen wer es war?&lt;br&gt;&lt;br&gt;MC: Ich habe eben so ein Gefühl. Also, lass mich nochmal nachdenken..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="6840" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-64" target="a_588HEZvl3vcVWjfH1_-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-64" target="a_588HEZvl3vcVWjfH1_-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-64" target="a_588HEZvl3vcVWjfH1_-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-64" value="Beschuldigunsmenü wird geöffnet" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="74" y="6850" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-66" target="a_588HEZvl3vcVWjfH1_-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-66" value="Deputy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="484" y="7110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-67" target="a_588HEZvl3vcVWjfH1_-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-67" value="Sheriff" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="89" y="7110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-68" target="a_588HEZvl3vcVWjfH1_-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-68" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="7110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-70" target="a_588HEZvl3vcVWjfH1_-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-70" value="MC: Würdest du Deputy nochmal hereinbitten?&amp;nbsp;&lt;br&gt;&lt;br&gt;Sheriff: Deputy, herkommen bitte.&lt;br&gt;&lt;br&gt;Deputy kommt in den Raum&lt;br&gt;&lt;br&gt;MC: Deputy, nimm bitte... den Sheriff fest.&lt;br&gt;&lt;br&gt;Sheriff: Bist du denn von allen guten Geistern verlassen Junge? Was soll denn das?&lt;br&gt;&lt;br&gt;MC: Es macht alles Sinn. Du benutzt deinen Deckmantel als Sheriff um die Morde zu begehen und sie zu vertuschen. Ich bin mir sicher.&lt;br&gt;&lt;br&gt;Deputy: Sheriff, Hände hoch und mitkommen!!!&lt;br&gt;&lt;br&gt;Sheriff: Das ist alles ein Fehler! Warum sollte ich diese Morde begehen?&lt;br&gt;&lt;br&gt;Deputy: Erklär das dem Richter!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="4" y="7210" width="290" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-75" target="a_588HEZvl3vcVWjfH1_-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-75" value="Nachdem der Sheriff im Gefängnis gelandet ist, hören die Morde für ein paar Wochen auf. Doch als sich der Staub gelegt hat, fangen sie wieder an. Noch schlimmer und brutaler als zuvor. MC sieht seinen Irrtum ein und versucht den Sheriff aus dem Gefängnis zu holen. Doch an dem Tag, als er das versuchen möchte, geschieht es. Es erwischt ihn auf seinem Hof, gerade als er die Pferde füttern möchte. Das neueste Opfer des Mörders ist MC.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="6" y="7670" width="286" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-78" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="29" y="7930" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-80" target="a_588HEZvl3vcVWjfH1_-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-80" target="a_588HEZvl3vcVWjfH1_-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-80" value="MC: Würdest du Deputy nochmal hereinbitten?&amp;nbsp;&lt;br&gt;&lt;br&gt;Sheriff: Deputy, herkommen bitte.&lt;br&gt;&lt;br&gt;(Stille)&lt;br&gt;&lt;br&gt;Sheriff: Deputy, sofort herkommen!&lt;br&gt;&lt;br&gt;Andere Polizist: Sheriff, sie ist vor etwa 10 Minuten gegangen. Sie wollte uns nicht sagen wohin aber sie sah aus, als hätte sie es ziemlich eilig.&lt;br&gt;&lt;br&gt;MC: Sheriff, ich glaube dass der Deputy irgendwas zu verbergen hat.&lt;br&gt;&lt;br&gt;&lt;u&gt;+1 Hinweispunkte&lt;/u&gt;&lt;br&gt;&lt;br&gt;Sheriff: Wir ziehen am besten noch keine voreiligen Schlüsse. Los, machen wir uns auf die Suche nach ihr! Vielleicht gehen wir dafür an die Orte, von denen wir wissen, dass der Mörder sie besucht hat." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="399" y="7210" width="290" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-82" target="a_588HEZvl3vcVWjfH1_-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-82" value="Na gut, auf zum Brunnen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="399" y="7680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-83" target="a_588HEZvl3vcVWjfH1_-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-83" value="Na gut, auf zum Friedhof" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="569" y="7680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-84" value="Weiter mit&lt;br&gt;Pfad 2 -&amp;nbsp;&lt;br&gt;Brunnen" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="399" y="7780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-89" value="Weiter mit&lt;br&gt;Pfad 1 -&amp;nbsp;&lt;br&gt;Friedhof" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="569" y="7780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-91" target="a_588HEZvl3vcVWjfH1_-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-91" value="MC: Ich habe gestern mit Jenkins gesporchen. Er hat mir gesagt, sein Lieblingsort ist der alte Baumstumpf und zu euch sagt er, dass er am liebsten beim Brunnen ist. Mmh irgendetwas ist da doch faul.&lt;br&gt;&lt;br&gt;Sheriff: Wir besuchen ihn am besten und fragen, was es damit auf sich hat und warum er überhaupt beim Brunnen war.&lt;br&gt;&lt;br&gt;MC: Ja, ist wahrscheinlich am Besten. Weißt du zufällig wo er sich gerade aufhält?&lt;br&gt;&lt;br&gt;Sheriff: Meine Leute sind immer noch dabei, ihn zu befragen. Also müsste er noch am Brunnen sein. Lass uns zu ihm gehen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="7210" width="290" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-98" target="a_588HEZvl3vcVWjfH1_-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-98" value="Umschauen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1147" y="7450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-99" target="a_588HEZvl3vcVWjfH1_-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-99" value="Jenkins befragen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-900" y="7450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-103" target="a_588HEZvl3vcVWjfH1_-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-103" target="a_588HEZvl3vcVWjfH1_-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-103" target="a_588HEZvl3vcVWjfH1_-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-103" value="Jenkins: Ich sagte es euch doch schon! Ich komm einfach gerne hierher. Lasst mich doch in Ruhe.&lt;br&gt;&lt;br&gt;MC: Hallo Jenkins! Wie gehts dir und deinem neuen Pferd?&lt;br&gt;&lt;br&gt;Jenkins: MC, schön dich zu sehen. Hopper gehts spitze. Ich wollte einfach nur ein bisschen ausreiten, als ich hier am Brunnen eine Leiche entdeckt hab. Und nun lässt mich die Polizei nicht gehen!&lt;br&gt;&lt;br&gt;Sheriff: Jenkins, wir wollen nur auf Nummer sicher gehen.&lt;br&gt;&lt;br&gt;MC: Ich würde dir auch noch gerne ein paar Fragen stellen wenn es dir nichts ausmacht.&lt;br&gt;&lt;br&gt;Jenkins: Es macht mir aber was aus. Ich will jetzt einfach nur noch von hier verschwinden.&lt;br&gt;&lt;br&gt;MC: Ja aber es muss sein. Warum warst du überhaupt hier?&lt;br&gt;&lt;br&gt;Jenkins: Das hier ist mein Lieblingsplatz in der Umgebung.&lt;br&gt;&lt;br&gt;MC: Ach ja? Zu mir hast du gesagt, dein Lieblingsplatz ist der alte Baumstumpf.&lt;br&gt;&lt;br&gt;Jenkins: Na und? Kann man nicht zwei Lieblingsplätze haben.&lt;br&gt;&lt;br&gt;&lt;i&gt;MC bemerkt, dass Jenkins nun etwas nervös wird.&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC: Naja, du weißt doch, dass das hier mein liebster Ort zum Entspannen ist. Ich hab dir das schon oft erzählt, als du bei mir zum Hufeisen aufsetzen warst und da ist dir nie in den Sinn gekommen zu erwähnen, dass du auch gern herkommst.&lt;br&gt;&lt;br&gt;Jenkins: Ähh naja also...&lt;br&gt;&lt;br&gt;Sheriff: Jenkins, das Ganze hier sieht gerade ziemlich schlecht für dich aus. Du spuckst besser aus was du hier gemacht hast." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-727.5" y="7980" width="370" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-104" target="a_588HEZvl3vcVWjfH1_-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-104" target="a_588HEZvl3vcVWjfH1_-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-104" target="a_588HEZvl3vcVWjfH1_-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-104" value="&lt;i&gt;MC schaut sich um und bemerkt mehrere Gegenstände, die um den Brunnen verteilt herumliegen.&lt;/i&gt;&lt;br&gt;&lt;br&gt;MC: Ok, was soll ich mir anschauen?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1417" y="7550" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-105" value="Feder" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="7760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-106" target="a_588HEZvl3vcVWjfH1_-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-106" value="Streichholzschachtel" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1292" y="7760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-108" target="a_588HEZvl3vcVWjfH1_-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-108" value="Angebissenen Apfel" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1062.5" y="7760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-115" target="a_588HEZvl3vcVWjfH1_-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-115" value="(Falls Deputy verdächtigt wurde)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-827" y="8670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-116" target="a_588HEZvl3vcVWjfH1_-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-116" value="(Falls Jenkins verdächtigt wurde)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-602.5" y="8670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-120" target="a_588HEZvl3vcVWjfH1_-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-120" value="(Falls noch niemand verdächtigt wurde)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="8670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-124" target="a_588HEZvl3vcVWjfH1_-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-124" value="MC: Mhhh, was ist das hier für eine Streichholzschachtel?&lt;br&gt;&lt;br&gt;Anderer Polizist: Oh mist, das ist mir gerade aus der Tasche gefallen, danke fürs Aufheben!&lt;br&gt;&lt;br&gt;MC: Oh... gerne." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1332" y="7850" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-125" target="a_588HEZvl3vcVWjfH1_-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1003" y="8230" />
+              <mxPoint x="-1232" y="8230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-125" value="MC: Dieser Apfel! Vielleicht hat der Mörder in ihn gebissen und wir können Mundgrößen vergleichen.&lt;br&gt;&lt;br&gt;Jenkins (von weiter weg rufend): Da wirst du Pech haben mein Junge. Außer der Mörder hat ein Riesengebiss.&lt;br&gt;&lt;br&gt;MC: Warum das denn?&lt;br&gt;&lt;br&gt;Jenkins: Den Apfel hat mein Pferd angebissen..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1102.5" y="7850" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-105" target="a_588HEZvl3vcVWjfH1_-130" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1460" y="7820" as="sourcePoint" />
+            <mxPoint x="-1460" y="8030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMxuNM1tqc2YJxkNjkuB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_588HEZvl3vcVWjfH1_-130" target="a_588HEZvl3vcVWjfH1_-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1460" y="8230" />
+              <mxPoint x="-1232" y="8230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-130" value="MC: Sheriff, kommt dir diese Feder bekannt vor?&lt;br&gt;&lt;br&gt;Sheriff: Mmh, die könnte von einem Hut stammen.&lt;br&gt;&lt;br&gt;&lt;u&gt;+ 1 Hinweispunkt&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1560" y="7850" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-133" target="a_588HEZvl3vcVWjfH1_-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-830" y="8315" />
+              <mxPoint x="-830" y="7900" />
+              <mxPoint x="-542" y="7900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-133" value="Sheriff: Wenn du dir nun alles angesehen hast, wird es Zeit, mit Jenkins zu reden." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1362" y="8260" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-138" target="a_588HEZvl3vcVWjfH1_-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-138" value="MC: Ich hatte dich vorhin schon im Verdacht Jenkins, aber jetzt da du dich so verhältst, wirst du immer verdächtiger!&lt;br&gt;&lt;br&gt;&lt;i&gt;Jenkins greift nach etwas in seiner Jackentasche.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Sheriff: Ok immer langsam Jenkins, was soll das werden?&lt;br&gt;&lt;br&gt;Jenkins: Beruhigt euch, ich hol nur das raus, weswegen ich hier bin. Das hier ist...&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;i&gt;Jenkins wird unterbrochen als Deputy dazukommt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-663.5" y="8810" width="242" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-140" target="a_588HEZvl3vcVWjfH1_-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-140" value="MC (zu Sheriff): Ich glaube nach wie vor nicht, dass er wirklich etwas damit zu tun hat. Es ist immerhin Jenkins. Der kann keiner Fliege was anhaben.&lt;br&gt;&lt;br&gt;Sheriff (zu MC): Du hast ja Recht. Und es ist schon sehr verdächtigt, dass der Deputy so lange unterwegs ist ohne Bescheid zu sagen, wo sie ist.&lt;br&gt;&lt;br&gt;&lt;i&gt;Die Beiden werden unterbrochen, als Deputy dazukommt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-969.5" y="8810" width="242" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-141" target="a_588HEZvl3vcVWjfH1_-145" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-237" y="9130" />
+              <mxPoint x="-543" y="9130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-141" value="Jenkins: Kommt schon, ich bin doch nicht der Mörder! Was für ein Motiv sollte ich denn haben?&lt;br&gt;&lt;br&gt;MC: Du hast ja Recht Jenkins. Du warst halt einfach zur falschen Zeit am falschen Ort.&lt;br&gt;&lt;br&gt;Jenkins: Ja genau. Ich...&lt;br&gt;&lt;br&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Jenkins wird unterbrochen als Deputy dazukommt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-357.5" y="8810" width="242" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-145" target="a_588HEZvl3vcVWjfH1_-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-145" value="Deputy: Hallo Sheriff. Hallo MC.&amp;nbsp;&lt;br&gt;&lt;br&gt;Sheriff: Deputy, wo waren Sie?&lt;br&gt;&lt;br&gt;Deputy: Ich bin einer Spur nachgegangen Sheriff.&lt;br&gt;&lt;br&gt;Sheriff: Ach ist das so? Was für einer Spur?&lt;br&gt;&lt;br&gt;Deputy: Ähh, ich habe untersucht, wer in der Stadt etwas mit Zähnen zu tun haben könnte. Sie wissen schon, wegen den fehlenden Schneidezähnen und so.&lt;br&gt;&lt;br&gt;Sheriff: Und haben Sie etwas herausgefunden?&lt;br&gt;&lt;br&gt;Deputy: Naja Sheriff, ich will ja nichts sagen, aber sie wissen, dass in ihrem Haus früher Patienten die Zähne gezogen wurden oder?&lt;br&gt;&lt;br&gt;Sheriff: Was wollen Sie denn damit andeuten? Das ist locker schon 20 Jahre her. Und außerdem ist ihr eigener Adoptivvater doch Zahnarzt.&lt;br&gt;&lt;br&gt;Deputy: Ja ist ja gut. Was ich noch herausgefunden habe, ist dass der alte Jenkins hier manchmal Kühen und Pferden die Zähne zieht wenn sie Probleme haben.&lt;br&gt;&lt;br&gt;Jenkins: Ja ich mache das bei Tieren. Was würde ich denn mit den Zähnen von Menschen wollen?&lt;br&gt;&lt;br&gt;MC: Genug jetzt. Ich glaube ich habe genug gehört!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-727.5" y="9210" width="370" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-149" target="a_588HEZvl3vcVWjfH1_-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-149" target="a_588HEZvl3vcVWjfH1_-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-149" target="a_588HEZvl3vcVWjfH1_-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-149" value="Beschuldigunsmenü wird geöffnet" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-617.5" y="9750" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-150" target="a_588HEZvl3vcVWjfH1_-165" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-150" value="Deputy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="10020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-151" target="a_588HEZvl3vcVWjfH1_-161" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-151" value="Sheriff" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-602.5" y="10020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-152" target="a_588HEZvl3vcVWjfH1_-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-152" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-957.5" y="10020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-157" target="a_588HEZvl3vcVWjfH1_-204" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-950.4814814814818" y="10610.017612017611" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-157" value="MC: Es war der alte Jenkins hier. Er hat das Equipment um die Zähne zu ziehen und er hat gelogen, was er hier am Brunnen macht.&lt;br&gt;&lt;br&gt;Jenkins: Das ist ja wohl ein Witz. Warum sollte ich das tun? Und was ich euch vorhin zeigen wollte, war das hier.&lt;br&gt;&lt;br&gt;Jenkins holt eine Flasche gefüllt mit Blut hervor.&lt;br&gt;Der Sheriff zieht seine Pistole.&lt;br&gt;&lt;br&gt;Jenkins: Ganz ruhig, das ist Rinderblut.&lt;br&gt;&lt;br&gt;Sheriff: Und was haben Sie damit vor?&lt;br&gt;&lt;br&gt;Jenkins: Ach, ich wollte es in den Brunnen kippen, wie ich es immer mache.&lt;br&gt;&lt;br&gt;Sheriff: Sie wissen aber, dass das illegal ist. Sie kommen hinter Gittern, egal ob Sie nun der Mörder sind oder nicht.&lt;br&gt;&lt;br&gt;&lt;i&gt;Nachdem Jenkins ins Gefängnis wandert, hören die Morde auf. Ob er der Mörder war oder nicht, bleibt ungeklärt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="10120" width="269" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-161" target="a_588HEZvl3vcVWjfH1_-163" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-161" value="MC: Es war... der Sheriff selbst.&lt;br&gt;&lt;br&gt;Sheriff: Guter Scherz Junge aber jetzt sag uns wer der wahre Mörder ist.&lt;br&gt;&lt;br&gt;MC: Es macht Sinn. Du benutzt deinen Deckmantel als Sheriff um die Morde zu begehen und sie zu vertuschen. Ich bin mir sicher.&lt;br&gt;&lt;br&gt;Deputy: Ja jetzt wo Sie es sagen, der Sheriff war in letzter Zeit öfter weg als sonst.&lt;br&gt;&lt;br&gt;Sheriff: Das ist eine Lüge. Und falls ich mal weg bin, dann um Zeit mit meiner Familie zu verbringen. Ihr seid doch alle verrückt.&lt;br&gt;&lt;br&gt;Deputy: Sheriff! Waffe wegwerfen und Hände hoch! Sie sind verhaftet.&lt;br&gt;&lt;br&gt;Sheriff: Das ist ein Fehler! Der wahre Mörder ist noch auf freiem Fuß.&lt;br&gt;&lt;br&gt;Deputy: Erzähl das dem Richter&lt;br&gt;&lt;br&gt;&lt;i&gt;Nachdem der Sheriff im Gefängnis gelandet ist, hören die Morde für ein paar Wochen auf. Doch als sich der Staub gelegt hat, fangen sie wieder an. Noch schlimmer und brutaler als zuvor. MC sieht seinen Irrtum ein und versucht den Sheriff aus dem Gefängnis zu holen. Doch an dem Tag, als er das versuchen möchte, geschieht es. Es erwischt ihn auf seinem Hof, gerade als er die Pferde füttern möchte. Das neueste Opfer des Mörders ist MC.&amp;nbsp;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-677" y="10120" width="269" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-163" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-662.5" y="10710" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-165" target="a_588HEZvl3vcVWjfH1_-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-165" target="a_588HEZvl3vcVWjfH1_-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-165" value="MC: Deputy! Sie selbst sind die Mörderin. Jetzt ist mir alles klar. Als ich hörte, dass Sie adoptiert sind kam ich ins stutzen. Ich dachte immer, sie sind von hier aus dem Dorf. Aber sie wurden adoptiert und von einem Zahnarzt drüben in Jamestown aufgezogen. Ich habe darüber in der Zeitung gelesen. Sie sind die Tochter von dem Mann, der damals meinen Vater...&lt;br&gt;&lt;br&gt;Deputy: Hahaha... Ich dachte schon du kommst nie drauf! Damals hat dein Vater meinen Vater kaltblütig ermordet! Er wollte nur für mich Sorgen! Er wollte nie jemanden verletzen. Nur das Geld und abhauen. Aber dein Vater hat alles ruiniert! Ich bin bei dem Zahnarzt und seiner Familie untergekommen. Wie der letzte Dreck haben die mich behandelt. Also hab ich irgendwann das Zahnarztequipment geschnappt und sie einen nach dem anderen getötet. Ihre Zähne habe ich als Trophäen behalten, weil er das auch mit seinen Patienten gemacht hat. Das stand nicht in deiner tollen Zeitung was? Und dann bin ich zurück hierher gekommen und Deputy geworden. Niemand hat etwas geahnt als ich angefangen habe, mich an diesem Ort zu rächen für das was ihr mir angetan habt.&lt;br&gt;&lt;br&gt;MC: Das was dein Vater getan hat, was du getan hast... Ihr seid beide Mörder!&lt;br&gt;&lt;br&gt;Deputy: Ich, vielleicht aber wag es nicht meinen Vater einen Mörder zu nennen. Er war ein Held.&lt;br&gt;&lt;br&gt;&lt;i&gt;Mit diesen Worten zieht Deputy ihren Revolver und richtet ihn auf MC. MC greift aus Reflex nach dem Revolver des Sheriffs und steht nun dem Deputy gegenüber. Die beiden blicken sich stumm an und warten, wer den ersten Schritt macht.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-269" y="10130" width="269" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-167" target="a_588HEZvl3vcVWjfH1_-172" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-167" value="Auf Duell einlassen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="10770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-168" target="a_588HEZvl3vcVWjfH1_-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-168" target="a_588HEZvl3vcVWjfH1_-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-168" value="Versuchen, mit ihr zu reden" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="10770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-172" target="a_588HEZvl3vcVWjfH1_-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-172" target="a_588HEZvl3vcVWjfH1_-175" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-172" value="Duell" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-65" y="10880" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-174" target="a_588HEZvl3vcVWjfH1_-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-174" value="Nicht schießen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="172" y="10870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-175" target="a_588HEZvl3vcVWjfH1_-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-175" value="Schießen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="172" y="10980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-176" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="449" y="10720" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-182" value="Mittleres Ende: Die Mörderin ist tot und &lt;br&gt;ihr Blut klebt an MCs Händen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="449" y="10990" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-184" target="a_588HEZvl3vcVWjfH1_-188" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-184" value="Ich verstehe, was du durchmachst" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="10910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-185" target="a_588HEZvl3vcVWjfH1_-190" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-185" value="Damit wirst du nicht davonkommen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-235" y="10910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-188" target="a_588HEZvl3vcVWjfH1_-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" target="a_588HEZvl3vcVWjfH1_-195" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="11250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-380" y="11430" />
+              <mxPoint x="-175" y="11430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-188" value="MC: Ich verstehe, was du durchmachst. Als mein Vater starb, wollte ich auch alles und jeden dafür verantwortlich machen.&lt;br&gt;&lt;br&gt;Deputy: Du verstehst gar nichts. Was ich in Jamestown durchmachen musste...&lt;br&gt;&lt;br&gt;&lt;i&gt;Sie wirkt abgelenkt, während sie an ihre Kindheit denkt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-475" y="11021" width="190" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-189" target="a_588HEZvl3vcVWjfH1_-202" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-189" value="Es tut mir Leid" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="11600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-190" target="a_588HEZvl3vcVWjfH1_-189" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-175" y="11430" />
+              <mxPoint x="-380" y="11430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-190" target="a_588HEZvl3vcVWjfH1_-195" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-175" y="11520" />
+              <mxPoint x="-175" y="11520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-190" value="MC: Gib auf, damit wirst du nicht davonkommen. Du bist umzingelt von Polizisten.&lt;br&gt;&lt;br&gt;Deputy: Zumindest einen kann ich ja noch mitnehmen. Dich wollte ich mir für später aufheben. Du bist der Sohn des Mörders meines Vaters. Du muss auch sterben.&lt;br&gt;&lt;br&gt;MC: Unsere beiden Väter sind gestorben an diesem Tag. Verbindet uns das nicht irgendwie?&lt;br&gt;&lt;br&gt;Deputy: Uns verbindet gar nichts. Was ich in Jamestown durchmachen musste...&lt;br&gt;&lt;br&gt;&lt;i&gt;Sie wirkt abgelenkt, während sie an ihre Kindheit denkt.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="11021" width="190" height="339" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-195" target="a_588HEZvl3vcVWjfH1_-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-195" value="SCHIEßEN" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-235" y="11600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-199" target="a_588HEZvl3vcVWjfH1_-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-199" value="MCs Schuss trifft Deputy genau in die Rippen. Sheriff eilt zu ihr aber die Wunde blutet bereits zu stark." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="39" y="11580" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-202" target="a_588HEZvl3vcVWjfH1_-205" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-202" value="Als sie diese Worte hört, senkt Deputy langsam ihre Waffe, während der Sheriff und alle Polizisten auf sie zustürmen.&lt;br&gt;&lt;br&gt;Deputy: Das hatte ich noch nie... Mitgefühl.&lt;br&gt;&lt;br&gt;Sheriff: Und wer hat deinen Opfern Mitgefühl gezeigt? Du wirst nie mehr das Tageslicht sehen, Ruby.&lt;br&gt;&lt;br&gt;Während der Sheriff Ruby wegführt, steht MC nur still daneben und sieht zu. Nach einer Weile setzt aber doch die Erleichterung ein, dass die Stadt nun endlich wieder sicher ist." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-475" y="11710" width="190" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-204" value="Mittleres Ende: &lt;br&gt;Die Morde bleiben ungeklärt." style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-1070.5" y="10698" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-205" value="Gutes Ende: Die Mörderin wurde &lt;br&gt;identifiziert und festgenommen." style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;labelBackgroundColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="12080" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-209" target="a_588HEZvl3vcVWjfH1_-215" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-209" value="Grabsteine" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2340" y="6930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-210" target="a_588HEZvl3vcVWjfH1_-218" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-210" value="Baum" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2340" y="7105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-211" target="a_588HEZvl3vcVWjfH1_-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-211" value="Friedhoftor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2340" y="7285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-215" target="a_588HEZvl3vcVWjfH1_-225" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-215" target="a_588HEZvl3vcVWjfH1_-226" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-215" value="Die Grabsteine sind alt und nur schwer zu lesen. Bis auf ein paar bekannte Name fällt MC nichts ungewöhnliches auf, bis...&lt;br&gt;&lt;br&gt;MC: Hey Sheriff, warum steht dieser Grabstein da hinten so weit ab vom Schuss?&lt;br&gt;&lt;br&gt;Sheriff: Es tut mir Leid, das ist der Grabstein vom Mörder von deinem Vater...&lt;br&gt;&lt;br&gt;&lt;i&gt;Mit Kloß in der Brust tritt MC vor das Grab. Er kann einen Namen erkennen. Randy Sawyer. Irgendwo hat er diesen Namen schonmal gehört. Plötzlich ertönt eine Stimme hinter ihm.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Deputy: Was macht ihr hier?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2650" y="6710" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iMxuNM1tqc2YJxkNjkuB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_588HEZvl3vcVWjfH1_-218" target="a_588HEZvl3vcVWjfH1_-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-218" value="Sheriff: Ich weiß nicht, ob du hier noch was finden wirst, meine Leute haben so ziemlich alles wichtige schon eingesackt.&lt;br&gt;&lt;br&gt;MC: Hast Recht, wollte nur auf Nummer sicher gehen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2650" y="7061.25" width="230" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;startArrow=none;startFill=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-219" target="a_588HEZvl3vcVWjfH1_-223" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-219" value="Am Tor findet MC nur einen Hammer, der im Gras liegt.&lt;br&gt;&lt;br&gt;MC (zu Sheriff): Hier ist nichts!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2650" y="7245" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iMxuNM1tqc2YJxkNjkuB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_588HEZvl3vcVWjfH1_-223" target="a_588HEZvl3vcVWjfH1_-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2821" y="7220" />
+              <mxPoint x="-2690" y="7220" />
+              <mxPoint x="-2690" y="7050" />
+              <mxPoint x="-2535" y="7050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-223" value="Neuer Gegenstand im Inventar: Hammer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2894" y="7242.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-225" target="a_588HEZvl3vcVWjfH1_-232" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-225" value="Hat Deputy verdächtigt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2881.5" y="6770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-226" target="a_588HEZvl3vcVWjfH1_-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-226" value="Noch niemanden verdächtigt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-2881.5" y="6910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-230" target="a_588HEZvl3vcVWjfH1_-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-230" value="Als MC sich umdreht, sieht er Deputy mit Blumen in der Hand vor sich stehen.&amp;nbsp;&lt;br&gt;&lt;br&gt;MC: Wir sind hier nochmals alles wegen der letzten Leiche, Stan. Was machen Sie hier?&lt;br&gt;&lt;br&gt;MC deutet auf die Blumen.&lt;br&gt;&lt;br&gt;Deputy: Ähh, ich möchte einen Verwandten besuchen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-3180" y="6885" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-232" target="a_588HEZvl3vcVWjfH1_-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-232" value="Als MC sich umdreht, sieht er Deputy mit Blumen in der Hand vor sich stehen.&amp;nbsp;&lt;br&gt;&lt;br&gt;MC: Ah gut, dass Sie da sind. Sheriff, kommen Sie mal her!&lt;br&gt;&lt;br&gt;Sheriff: Deputy, wo waren Sie? Sie können nicht einfach mitten am Tag abhauen ohne jemandem Bescheid zu sagen!&lt;br&gt;&lt;br&gt;Deputy: Ja es tut mir Leid. Heute ist nur der Jahrestag vom Tod von...&lt;br&gt;&lt;br&gt;&lt;u&gt;+1 Hinweispunkt&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-3180" y="6630" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-234" target="a_588HEZvl3vcVWjfH1_-243" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-234" value="Sheriff: Wen möchten Sie denn hier eigentlich besuchen, Deputy?&lt;br&gt;&lt;br&gt;Deputy: Jemand, der mir sehr wichtig war und der mir zu früh weggenommen wurde.&lt;br&gt;&lt;br&gt;Sheriff: Und wer genau?&lt;br&gt;&lt;br&gt;Deputy: Ist ihnen eigentlich aufgefallen, dass Patty eine riesige Perlenkette trägt? Vor dem Tod ihres Mannes hatte sie nie so eine an.&lt;br&gt;&lt;br&gt;Sheriff: Weichen sie nicht meiner Frage aus, Deputy. Was machen Sie hier?&lt;br&gt;&lt;br&gt;Deputy: Das gleiche könnte ich Sie fragen Sheriff? Sie fragen hier einen Bauernjungen, der keine Ahnung von Polizeiarbeit hat nach Hilfe. Für was, um die eigenen Spuren zu verwischen oder was?&lt;br&gt;&lt;br&gt;MC: Genug jetzt. Ich weiß, wer der Mörder ist." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-3560" y="6685" width="290" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-238" target="a_588HEZvl3vcVWjfH1_-239" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-238" value="MC: Es war... der Sheriff selbst.&lt;br&gt;&lt;br&gt;Sheriff: Guter Scherz Junge aber jetzt sag uns wer der wahre Mörder ist.&lt;br&gt;&lt;br&gt;MC: Es macht Sinn. Du benutzt deinen Deckmantel als Sheriff um die Morde zu begehen und sie zu vertuschen. Ich bin mir sicher.&lt;br&gt;&lt;br&gt;Deputy: Ja jetzt wo Sie es sagen, der Sheriff war in letzter Zeit öfter weg als sonst.&lt;br&gt;&lt;br&gt;Sheriff: Das ist eine Lüge. Und falls ich mal weg bin, dann um Zeit mit meiner Familie zu verbringen. Ihr seid doch alle verrückt.&lt;br&gt;&lt;br&gt;Deputy: Sheriff! Waffe wegwerfen und Hände hoch! Sie sind verhaftet.&lt;br&gt;&lt;br&gt;Sheriff: Das ist ein Fehler! Der wahre Mörder ist noch auf freiem Fuß.&lt;br&gt;&lt;br&gt;Deputy: Erzähl das dem Richter&lt;br&gt;&lt;br&gt;&lt;i&gt;Nachdem der Sheriff im Gefängnis gelandet ist, hören die Morde für ein paar Wochen auf. Doch als sich der Staub gelegt hat, fangen sie wieder an. Noch schlimmer und brutaler als zuvor. MC sieht seinen Irrtum ein und versucht den Sheriff aus dem Gefängnis zu holen. Doch an dem Tag, als er das versuchen möchte, geschieht es. Es erwischt ihn auf seinem Hof, gerade als er die Pferde füttern möchte. Das neueste Opfer des Mörders ist MC.&amp;nbsp;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4420" y="6010" width="269" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-239" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-4405.5" y="5750" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-243" target="a_588HEZvl3vcVWjfH1_-246" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-243" target="a_588HEZvl3vcVWjfH1_-244" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-243" target="a_588HEZvl3vcVWjfH1_-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-243" value="Beschuldigunsmenü wird geöffnet" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-3785" y="6795" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-244" target="a_588HEZvl3vcVWjfH1_-238" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-244" value="Sheriff" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4010" y="6600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-245" target="a_588HEZvl3vcVWjfH1_-256" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-245" value="Deputy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4010" y="7080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-246" target="a_588HEZvl3vcVWjfH1_-252" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-246" value="Patty" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4010" y="6840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-252" target="a_588HEZvl3vcVWjfH1_-254" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-252" value="MC: Die Mörderin ist... Patty. Sie hat ihren Mann umgebracht, um sein ganzes Goldgräbervermögen nur für sich allein zu haben. Die anderen Morde hat sie bestimmt aus Vergnügen begangen.&lt;br&gt;&lt;br&gt;Sheriff: Sag mal, hörst du dir überhaupt zu oder was? Du denkst wirklich, dass Patty so viele Menschen umbringen könnte? Vielleicht war es wirklich ein Fehler, dich dem Fall hinzuzuziehen. Hiermit bist du offziell entlassen. Ich übernehme das ab hier.&lt;br&gt;&lt;br&gt;&lt;i&gt;Nachdem MC vom Fall abgezogen wurde, wurden 3 weitere Menschen getötet. Der Sheriff und seine Leute bleiben ratlos.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4434.5" y="6740" width="269" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-254" value="Mittleres Ende: &lt;br&gt;Der Hauptcharakter &lt;br&gt;wurde vom Fall abgezogen &lt;br&gt;und der Mörder ist weiterhin &lt;br&gt;auf freiem Fuß." style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-4810" y="6768" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-256" target="a_588HEZvl3vcVWjfH1_-260" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-256" target="a_588HEZvl3vcVWjfH1_-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-256" value="MC: Als ich den Namen auf dem Grabstein gelesen habe, kam ich erst nicht drauf. Sawyer. Wo habe ich den Namen schonmal gehört? Dann fiel es mir wieder ein. Ich habe es in der Zeitung gelesen, damals, zusammen mit der Todesanzeige meines Vaters. Die Tochter des Mörders meines Vaters, ein Randy Sawyer, wurde adoptiert von einem Zahnarzt in Jamestown. Und sie ist heute hier, um Ihren Vater zu besuchen. Deputy, deren wahrer Nachname Sawyer ist.&lt;br&gt;&lt;br&gt;Deputy: Hahaha... Ich dachte schon du kommst nie drauf! Damals hat dein Vater meinen Vater kaltblütig ermordet! Er wollte nur für mich Sorgen! Er wollte nie jemanden verletzen. Nur das Geld und abhauen. Aber dein Vater hat alles ruiniert! Ich bin bei dem Zahnarzt und seiner Familie untergekommen. Wie der letzte Dreck haben die mich behandelt. Also hab ich irgendwann das Zahnarztequipment geschnappt und sie einen nach dem anderen getötet. Ihre Zähne habe ich als Trophäen behalten, weil er das auch mit seinen Patienten gemacht hat. Das stand nicht in deiner tollen Zeitung was? Und dann bin ich zurück hierher gekommen und Deputy geworden. Niemand hat etwas geahnt als ich angefangen habe, mich an diesem Ort zu rächen für das was ihr mir angetan habt.&lt;br&gt;&lt;br&gt;MC: Das was dein Vater getan hat, was du getan hast... Ihr seid beide Mörder!&lt;br&gt;&lt;br&gt;Deputy: Ich, vielleicht aber wag es nicht meinen Vater einen Mörder zu nennen. Er war ein Held.&lt;br&gt;&lt;br&gt;&lt;i&gt;Deputy wirft die Blumen in ihrer Hand auf den Sheriff und stürmt auf MC zu.&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4420" y="7130" width="269" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-260" target="a_588HEZvl3vcVWjfH1_-264" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-260" target="a_588HEZvl3vcVWjfH1_-267" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-260" value="(Hammer aufgenommen)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4710" y="7300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-263" target="a_588HEZvl3vcVWjfH1_-274" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4960" y="7540" />
+              <mxPoint x="-4960" y="7480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-263" value="(Hammer nicht aufgenommen)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4710" y="7510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-264" target="a_588HEZvl3vcVWjfH1_-270" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-264" value="Hammer benutzen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4910" y="7225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-267" target="a_588HEZvl3vcVWjfH1_-274" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-267" value="Hammer nicht benutzen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4910" y="7360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-270" target="a_588HEZvl3vcVWjfH1_-272" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-270" value="Wie aus einem Reflex heraus, zieht MC den einzigen Gegenstand, den er an sich trägt, und schwingt ihn in einem großen Bogen. Der Hammer trifft Deputy genau an der Schläfe und sie sackt zusammen.&lt;br&gt;&lt;br&gt;MC: Oh Gott das wollte ich nicht, es war ein Reflex.&lt;br&gt;&lt;br&gt;Der Sheriff eilt auft sie zu, aber sie hat bereits zu viel Blut verloren." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5290" y="7080" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-272" value="Mittleres Ende: Die Mörderin ist tot und &lt;br&gt;ihr Blut klebt an MCs Händen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-5630" y="7078" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-274" target="a_588HEZvl3vcVWjfH1_-278" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-274" value="MC: Stopp, bitte, lass uns darüber reden!&lt;br&gt;&lt;br&gt;&lt;i&gt;Als Deputy MC erreicht fallen beide zu Boden.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Deputy: Worüber denn? Dass dein Vater meinen ermordet hat?&lt;br&gt;&lt;br&gt;MC: Ich verstehe, was du durchmachst. Als mein Vater starb, wollte ich auch alles und jeden dafür verantwortlich machen.&lt;br&gt;&lt;br&gt;Deputy: Du verstehst gar nichts. Eigentlich wollte ich mir deinen Tod für später aufheben, aber was solls?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5290" y="7360" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-278" target="a_588HEZvl3vcVWjfH1_-280" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-278" target="a_588HEZvl3vcVWjfH1_-281" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-278" value="&lt;i&gt;Mit diesen Worten greift Deputy nach ihrem Revolver und will ihn auf MC richten, doch in diesem Moment.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Sheriff: Hände hoch und Waffe fallen lassen!&lt;br&gt;&lt;br&gt;Deputy: Halt dich da raus, alter Mann!&lt;br&gt;&lt;br&gt;Sheriff: Bitte Ruby, ich habe dich damals unter meine Fittiche genommen, weil ich großes Talent in dir sah. Warum tust du das?&lt;br&gt;&lt;br&gt;Deputy: Oh ja du bist ja so tooolll. Und wo warst du damals, als ich ein Kind war?&lt;br&gt;&lt;br&gt;Sheriff: Komm schon, das ist nicht fair&lt;br&gt;&lt;br&gt;&lt;i&gt;Abgelenkt vom Gespräch, bekommt Deputy nicht mit, dass MC sich heimlich davongerobbt hat. Hinter einem Baum steht er auf und bemerkt, dass dort Patty in Deckung ist. &lt;/i&gt;&lt;br&gt;&lt;br&gt;Patty: Ich wusste von Anfang an, dass etwas mit ihr nicht stimmt. Hier, mein Junge, nimm meine Waffe.&lt;br&gt;&lt;br&gt;Sie zieht eine Waffe aus einem Holster unter ihrem Rock und will sie MC überreichen." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5290" y="7700" width="280" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a_588HEZvl3vcVWjfH1_-280" target="a_588HEZvl3vcVWjfH1_-302" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-280" value="Waffe nehmen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5410" y="8220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-281" target="a_588HEZvl3vcVWjfH1_-285" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-281" value="Waffe nicht nehmen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5010" y="8220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-285" target="a_588HEZvl3vcVWjfH1_-286" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-285" target="a_588HEZvl3vcVWjfH1_-288" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-285" value="MC: Nein, ich muss versuchen, mit ihr zu reden.&lt;br&gt;&lt;br&gt;MC (zu Deputy): Hey, bitte, lass uns reden.&lt;br&gt;&lt;br&gt;Deputy: Ich habe nichts mehr zu sagen.&amp;nbsp;&lt;br&gt;&lt;br&gt;Sheriff: Nimm deine Hände hoch, du hast all diese Menschen umgebracht.&lt;br&gt;&lt;br&gt;Deputy: Ahh es reicht mir jetzt!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5075" y="8330" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-286" target="a_588HEZvl3vcVWjfH1_-290" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-286" value="Ich verstehe dich" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5170" y="8610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-288" target="a_588HEZvl3vcVWjfH1_-293" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-288" value="Es tut mir Leid" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4840" y="8610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-290" target="a_588HEZvl3vcVWjfH1_-302" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5350" y="8945" />
+              <mxPoint x="-5350" y="8565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-290" value="MC: Ruby, ich bin vielleicht der Einzige hier der dich versteht. Wir haben beide unsere Väter verloren an diesem Tag.&lt;br&gt;&lt;br&gt;Deputy: Und ich bin dann nach Jamestown gekommen, wo mein Leben die Hölle war. Kannst du mich immer noch verstehen? Mhh?&lt;br&gt;&lt;br&gt;Sheriff: Ruby, letzte Warnung.&lt;br&gt;&lt;br&gt;Deputy: Auch von mir die letzte Warnung, alter Mann. Lass mich einfach gehen.&lt;br&gt;&lt;br&gt;Sheriff: Du weißt, dass ich das nicht kann.&lt;br&gt;&lt;br&gt;Mit einem Schrei schießt Deputy ihre Waffe in Richtung Sheriff ab. Die Kugel trifft genau oberhalb des Gürtels in den Bauch des Sheriffs. Vor Schmerzen keuchend bricht dieser zusammen.&lt;br&gt;&lt;br&gt;MC: NEEIINN!!!&lt;br&gt;&lt;br&gt;MC (zu Patty): Geben Sie mir doch die Waffe!" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5230" y="8720" width="240" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-293" target="a_588HEZvl3vcVWjfH1_-295" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-293" value="MC: Ruby, es tut mir Leid was dir passiert ist. Aber das ist doch kein Grund, die unschuldigen Einwohner dieser Stadt umzubringen.&lt;br&gt;&lt;br&gt;Deputy: Unschuldig? Ihr seid alle Schuld am Tod meines Vater, dein Vater besonders&lt;br&gt;&lt;br&gt;MC: Bitte Ruby, versteh doch. Das Einzige, was du mit den Morden bewirkst, ist noch mehr Schmerz, wie wir ihn damals erlebt haben. Willst du das anderen Kindern zumuten?&lt;br&gt;&lt;br&gt;Deputy (unter Tränen): Aber was soll ich denn machen? Ich kann die Dinge nicht ungeschehen machen. Ich wollte nur Rache dafür, was mir angetan wurde.&lt;br&gt;&lt;br&gt;MC: Glaub mir, ich wollte auch alles und jedem die Schuld geben, aber das geht so nicht.&lt;br&gt;&lt;br&gt;Ruby gibt sich geschlagen. Sie wirft ihre Waffe weg und lässt sich ohne Worte vom Sheriff festnehmen. Während der Sheriff Ruby wegführt, steht MC nur still daneben und sieht zu. Nach einer Weile setzt aber doch die Erleichterung ein, dass die Stadt nun endlich wieder sicher ist." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-4900" y="8725" width="240" height="475" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-295" value="Gutes Ende: Die Mörderin wurde &lt;br&gt;identifiziert und festgenommen." style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;labelBackgroundColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-4900" y="9280" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-299" target="a_588HEZvl3vcVWjfH1_-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-299" target="a_588HEZvl3vcVWjfH1_-301" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-299" value="Duell" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5910" y="8490" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-300" target="a_588HEZvl3vcVWjfH1_-306" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-300" value="Nicht schießen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-6110" y="8480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-301" target="a_588HEZvl3vcVWjfH1_-307" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-301" value="Schießen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-6110" y="8590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="a_588HEZvl3vcVWjfH1_-302" target="a_588HEZvl3vcVWjfH1_-299" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-302" value="MC: Ruby!!! Nimm die Waffe runter.&lt;br&gt;&lt;br&gt;Deputy: Oh nein so leicht mach ich es dir nicht" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="-5680" y="8500" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-306" value="Schlechtes Ende: Der Hauptcharakter ist dem Mörder zum Opfer gefallen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-6470" y="8328" width="240" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="a_588HEZvl3vcVWjfH1_-307" value="Mittleres Ende: Die Mörderin ist tot und &lt;br&gt;ihr Blut klebt an MCs Händen" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-6470" y="8598" width="240" height="204" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

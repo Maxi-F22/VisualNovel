@@ -19,7 +19,7 @@ namespace Game {
           T0014: "Das was dein Vater getan hat, was du getan hast... Ihr seid beide Mörder!",
           T0015: "Ich verstehe, was du durchmachst. Als mein Vater starb, wollte ich auch alles und jeden dafür verantwortlich machen.",
           T0016: "Gib auf, damit wirst du nicht davonkommen. Du bist umzingelt von Polizisten.",
-          T0017: "Unsere beiden Väter sind gestorben an diesem Tag. Verbindet uns das nicht irgendwie?",
+          T0017: "Unsere beiden Väter sind gestorben an diesem Tag. Verbindet uns das nicht irgendwie?"
         },
         sheriff: {
           T0001: "Jenkins, wir wollen nur auf Nummer sicher gehen.",
@@ -35,7 +35,7 @@ namespace Game {
           T0011: "Guter Scherz Junge aber jetzt sag uns wer der wahre Mörder ist.",
           T0012: "Das ist eine Lüge. Und falls ich mal weg bin, dann um Zeit mit meiner Familie zu verbringen. Ihr seid doch alle verrückt.",
           T0013: "Das ist ein Fehler! Der wahre Mörder ist noch auf freiem Fuß.",
-          T0014: "Und wer hat deinen Opfern Mitgefühl gezeigt? Du wirst nie mehr das Tageslicht sehen, Ruby.",
+          T0014: "Und wer hat deinen Opfern Mitgefühl gezeigt? Du wirst nie mehr das Tageslicht sehen, Ruby."
         },
         jenkins: {
           T0001: "Ich sagte es euch doch schon! Ich komm einfach gerne hierher. Lasst mich doch in Ruhe.",
@@ -50,7 +50,7 @@ namespace Game {
           T0010: "Ja ich mache das bei Tieren. Was würde ich denn mit den Zähnen von Menschen wollen?",
           T0011: "Das ist ja wohl ein Witz. Warum sollte ich das tun? Und was ich euch vorhin zeigen wollte, war das hier.",
           T0012: "Ganz ruhig, das ist Rinderblut.",
-          T0013: "Ach, ich wollte es in den Brunnen kippen, wie ich es immer mache.",
+          T0013: "Ach, ich wollte es in den Brunnen kippen, wie ich es immer mache."
         },
         deputy: {
           T0001: "Hallo Sheriff. Hallo " + dataForSave.nameProtagonist + ".",
@@ -61,12 +61,13 @@ namespace Game {
           T0006: "Ja jetzt wo Sie es sagen, der Sheriff war in letzter Zeit öfter weg als sonst.",
           T0007: "Sheriff! Waffe wegwerfen und Hände hoch! Sie sind verhaftet.",
           T0008: "Erzähl das dem Richter",
-          T0009: "Hahaha... Ich dachte schon du kommst nie drauf! Damals hat dein Vater meinen Vater kaltblütig ermordet! Er wollte nur für mich Sorgen! Er wollte nie jemanden verletzen. Nur das Geld und abhauen. Aber dein Vater hat alles ruiniert! Ich bin bei dem Zahnarzt und seiner Familie untergekommen. Wie der letzte Dreck haben die mich behandelt. Also hab ich irgendwann das Zahnarztequipment geschnappt und sie einen nach dem anderen getötet. Ihre Zähne habe ich als Trophäen behalten, weil er das auch mit seinen Patienten gemacht hat. Das stand nicht in deiner tollen Zeitung was? Und dann bin ich zurück hierher gekommen und Deputy geworden. Niemand hat etwas geahnt als ich angefangen habe, mich an diesem Ort zu rächen für das was ihr mir angetan habt.",
+          T0009: "Hahaha... Ich dachte schon du kommst nie drauf! Damals hat dein Vater meinen Vater kaltblütig ermordet! Er wollte nur für mich Sorgen! Er wollte nie jemanden verletzen. Nur das Geld und abhauen. Aber dein Vater hat alles ruiniert! Ich bin bei dem Zahnarzt und seiner Familie untergekommen. Wie der letzte Dreck haben die mich behandelt. Also hab ich irgendwann das Zahnarztequipment geschnappt und sie einen nach dem anderen getötet.",
           T0010: "Ich, vielleicht aber wag es nicht meinen Vater einen Mörder zu nennen. Er war ein Held.",
           T0011: "Du verstehst gar nichts. Was ich in Jamestown durchmachen musste...",
           T0012: "Zumindest einen kann ich ja noch mitnehmen. Dich wollte ich mir für später aufheben. Du bist der Sohn des Mörders meines Vaters. Du muss auch sterben.",
           T0013: "Uns verbindet gar nichts. Was ich in Jamestown durchmachen musste...",
           T0014: "Das hatte ich noch nie... Mitgefühl.",
+          T0015: "Ihre Zähne habe ich als Trophäen behalten, weil er das auch mit seinen Patienten gemacht hat. Das stand nicht in deiner tollen Zeitung was? Und dann bin ich zurück hierher gekommen und Deputy geworden. Niemand hat etwas geahnt als ich angefangen habe, mich an diesem Ort zu rächen für das was ihr mir angetan habt."
         },
         narration: {
           N0001: dataForSave.nameProtagonist + " bemerkt, dass Jenkins nun etwas nervös wird.",
@@ -81,30 +82,31 @@ namespace Game {
           N0010: "Sie wirkt abgelenkt, während sie an ihre Kindheit denkt.",
           N0011: "Als sie diese Worte hört, senkt Deputy langsam ihre Waffe, während der Sheriff und alle Polizisten auf sie zustürmen.",
           N0012: "Während der Sheriff Ruby wegführt, steht " + dataForSave.nameProtagonist + " nur still daneben und sieht zu. Nach einer Weile setzt aber doch die Erleichterung ein, dass die Stadt nun endlich wieder sicher ist.",
-          N0013: "Der Schuss von " + dataForSave.nameProtagonist + " trifft Deputy genau in die Rippen. Sheriff eilt zu ihr aber die Wunde blutet bereits zu stark.",
+          N0013: "Der Schuss von " + dataForSave.nameProtagonist + " trifft Deputy genau in die Rippen. Sheriff eilt zu ihr aber die Wunde blutet bereits zu stark."
         }
       };
   
       let confrontChoice = {
         talk: "Versuchen, mit ihr zu reden",
-        duel: "Auf Duell einlassen",
+        duel: "Auf Duell einlassen"
       };
   
       let talkChoice = {
         understand: "Ich verstehe, was du durchmachst",
-        notgetaway: "Damit wirst du nicht davonkommen",
+        notgetaway: "Damit wirst du nicht davonkommen"
       };
   
       let sorryOrShootChoice = {
         sorry: "Es tut mir Leid",
-        shoot: "SCHIEßEN",
+        shoot: "SCHIEßEN"
       };
 
       let duelChoice = {
         shoot: "Schießen",
-        dont: "Nicht schießen",
+        dont: "Nicht schießen"
       };
   
+      ƒS.Sound.play(sound.west, 0.1, true);
       await ƒS.Speech.tell(characters.jenkins, text.jenkins.T0001);
       await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0001);
       await ƒS.Speech.tell(characters.jenkins, text.jenkins.T0002);
@@ -167,9 +169,11 @@ namespace Game {
       ƒS.Text.addClass("accusemenu");
       do {
         let pages: string[] = [
-          "<strong><u>Beschuldigunsmenü</u></strong><br\><strong>Verbleibende Hinweispunkte: " + dataForSave.cluePoints + "</strong><br\><br\><br\><br\><br\><br\><br\>", 
-          "Langzeitverschlüsselung,<br\><br\>Seite 2", 
-          "Seite 3"
+          "<strong><u>Beschuldigunsmenü</u></strong><br\><br\><strong>Verbleibende Hinweispunkte: " + dataForSave.cluePoints + "</strong><br\><br\><br\><br\><br\><br\><br\>", 
+          "Hinweis 1,<br\><br\>Der Mörder trägt einen Hut.<br\><br\><br\><br\><br\><br\>", 
+          "Hinweis 2,<br\><br\>Der Mörder hat etwas mit Zähnen zu tun.<br\><br\><br\><br\><br\><br\>", 
+          "Hinweis 3,<br\><br\>Der Mörder wurde adoptiert.<br\><br\><br\><br\><br\><br\>", 
+          "Hinweis 4,<br\><br\>Der Mörder ist eine Frau.<br\><br\><br\><br\><br\><br\>"
         ];
 
         ƒS.Text.print(pages[current]);
@@ -186,12 +190,15 @@ namespace Game {
               accusationInput = await ƒS.Menu.getInput(accusation, "accusemenu-input");
               switch (accusationInput) {
                 case accusation.jenkins: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "jenkins";
                   break;
                 case accusation.sheriff: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "sheriff";
                   break;
                 case accusation.deputy: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "deputy";
                   break;
               }
@@ -216,12 +223,15 @@ namespace Game {
               accusationInput = await ƒS.Menu.getInput(accusation, "accusemenu-input");
               switch (accusationInput) {
                 case accusation.jenkins: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "jenkins";
                   break;
                 case accusation.sheriff: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "sheriff";
                   break;
                 case accusation.deputy: 
+                  ƒS.Sound.play(sound.accuse, 0.2, false);
                   accused = "deputy";
                   break;
               }
@@ -249,6 +259,8 @@ namespace Game {
         await ƒS.Speech.tell("", text.narration.N0006, true, "italic");
         ƒS.Speech.clear();
         ƒS.Speech.hide();
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
+        ƒS.Sound.fade(sound.well, 0, 0.5, false);
         await ƒS.Location.show(locations.black);
         await ƒS.update(2);
         return "medium_ending_unsolved";
@@ -271,15 +283,20 @@ namespace Game {
         await ƒS.Speech.tell("", text.narration.N0002, true, "italic");
         ƒS.Speech.clear();
         ƒS.Speech.hide();
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
+        ƒS.Sound.fade(sound.well, 0, 0.5, false);
         await ƒS.Location.show(locations.black);
         await ƒS.update(2);
         return "bad_ending";
       }
       else {
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
+        ƒS.Sound.play(sound.action, 0.1, true);
         await ƒS.Character.hide(characters.jenkins);
         await ƒS.update(1);
         await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0013);
         await ƒS.Speech.tell(characters.deputy, text.deputy.T0009);
+        await ƒS.Speech.tell(characters.deputy, text.deputy.T0015);
         await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0014);
         await ƒS.Speech.tell(characters.deputy, text.deputy.T0010);
         await ƒS.Speech.tell("", text.narration.N0002, true, "italic");
@@ -312,10 +329,13 @@ namespace Game {
                     await ƒS.update(1);
                     ƒS.Speech.clear();
                     ƒS.Speech.hide();
+                    ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                    ƒS.Sound.fade(sound.action, 0, 0.5, false);
                     await ƒS.Location.show(locations.black);
                     await ƒS.update(2);
                     return "good_ending";
                   case sorryOrShootChoice.shoot:
+                    ƒS.Sound.play(sound.gun, 0.2, false);
                     await ƒS.Speech.tell("", text.narration.N0013, true, "italic");
                     await ƒS.Character.hide(characters.deputy);
                     await ƒS.Character.hide(characters.protagonist);
@@ -323,10 +343,12 @@ namespace Game {
                     await ƒS.update(1);
                     ƒS.Speech.clear();
                     ƒS.Speech.hide();
+                    ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                    ƒS.Sound.fade(sound.action, 0, 0.5, false);
                     await ƒS.Location.show(locations.black);
                     await ƒS.update(2);
                     return "medium_ending_killer";
-                };
+                }
                 break;
               case talkChoice.notgetaway:
 
@@ -350,10 +372,13 @@ namespace Game {
                     await ƒS.update(1);
                     ƒS.Speech.clear();
                     ƒS.Speech.hide();
+                    ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                    ƒS.Sound.fade(sound.action, 0, 0.5, false);
                     await ƒS.Location.show(locations.black);
                     await ƒS.update(2);
                     return "good_ending";
                   case sorryOrShootChoice.shoot:
+                    ƒS.Sound.play(sound.gun, 0.2, false);
                     await ƒS.Speech.tell("", text.narration.N0013, true, "italic");
                     await ƒS.Character.hide(characters.deputy);
                     await ƒS.Character.hide(characters.protagonist);
@@ -361,12 +386,14 @@ namespace Game {
                     await ƒS.update(1);
                     ƒS.Speech.clear();
                     ƒS.Speech.hide();
+                    ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                    ƒS.Sound.fade(sound.action, 0, 0.5, false);
                     await ƒS.Location.show(locations.black);
                     await ƒS.update(2);
                     return "medium_ending_killer";
-                };
+                }
                 break;
-            };
+            }
             break;
           case confrontChoice.duel:
 
@@ -374,12 +401,15 @@ namespace Game {
             
             switch (duelChoiceElement) {
               case duelChoice.shoot:
+                ƒS.Sound.play(sound.gun, 0.2, false);
                 await ƒS.Character.hide(characters.deputy);
                 await ƒS.Character.hide(characters.protagonist);
                 await ƒS.Character.hide(characters.sheriff);
                 await ƒS.update(1);
                 ƒS.Speech.clear();
                 ƒS.Speech.hide();
+                ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                ƒS.Sound.fade(sound.action, 0, 0.5, false);
                 await ƒS.Location.show(locations.black);
                 await ƒS.update(2);
                 return "medium_ending_killer";
@@ -390,12 +420,14 @@ namespace Game {
                 await ƒS.update(1);
                 ƒS.Speech.clear();
                 ƒS.Speech.hide();
+                ƒS.Sound.fade(sound.well, 0, 0.5, false);
+                ƒS.Sound.fade(sound.action, 0, 0.5, false);
                 await ƒS.Location.show(locations.black);
                 await ƒS.update(2);
                 return "bad_ending";
             }
             break;
-        };
+        }
       }
     }
   }

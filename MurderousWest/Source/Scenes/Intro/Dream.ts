@@ -10,7 +10,7 @@ namespace Game {
         T0005: "(zu Bankräuber) Na schön. Wir lassen Sie wegreiten. Was passiert mit der Geisel?",
         T0006: "Das Ganze wird nicht gut für Sie ausgehen. Ergeben Sie sich einfach.",
         T0007: "Ahhh...",
-        T0008: "Bringt mich zum Doktor! Ich muss noch so viel erledigen. Mein Sohn... Seine Gabe... Er... soll sie nutzen um Gutes zu bewirken...",
+        T0008: "Bringt mich zum Doktor! Ich muss noch so viel erledigen. Mein Sohn... Seine Gabe... Er... soll sie nutzen um Gutes zu bewirken..."
       },
       evilguy: {
         T0001: "Pah! Ich glaube nicht, dass ihr wirklich auf mich schießen werdet ihr Schweine.",
@@ -18,7 +18,7 @@ namespace Game {
         T0003: "Ich will das ganze Geld aus dem Tresor in meinen Sack packen. Dann werde ich zusammen mit dem Geld und einer Geisel auf mein Pferd sitzen und in Richtung Osten verschwinden. Solltet ihr mir folgen, stirbt die Geisel.",
         T0004: "Ich sehe Sie sind vernünftig, Sheriff. Die Geisel werde ich am alten Brunnen gehen lassen. Aber falls ihr dort auf mich wartet, wisst ihr was passiert.",
         T0005: "Ach verdammt. Komm sofort wieder hier hoch du Mistkerl.",
-        T0006: "Sie wissen gar nichts über mich Sheriff. Ich muss das hier tun. Meine Kleine...",
+        T0006: "Sie wissen gar nichts über mich Sheriff. Ich muss das hier tun. Meine Kleine..."
       },
       police: {
         T0001: "Es tut mir so Leid Junge, dein Vater... Er... Er ist an seinen Verletzungen auf dem Weg zum Arzt gestorben. Das letzte, was er sagte war..."
@@ -30,10 +30,13 @@ namespace Game {
         N0004: "Ein Schuss des Bankräuber trifft den Sheriff genau über seinem Abzeichen in die Brust. Vor Schmerzen zuckend, schießt der Sheriff noch ein letztes Mal seinen Revolver bevor er zusammensackt.",
         N0005: "Stille...",
         N0006: "Von beiden Seiten ertönen keine Schüsse mehr. Während drei der Polizisten sich um ihren Sheriff kümmern, gehen zwei andere nachsehen, was mit dem Bankräuber passiert ist. Als sie hinter die Mauer sehen, liegt er da, in einer Blutlache. Der letzte Schuss des Sheriffs hat ihn genau zwischen die Augen getroffen.",
-        N0007: "Später...",
+        N0007: "Später..."
       }
     };
 
+    ƒS.Speech.hide();
+
+    ƒS.Sound.play(sound.dream, 0.1, true);
 
     await ƒS.Location.show(locations.dream);
     await ƒS.update(transitions.spiralslider.duration, transitions.spiralslider.alpha, transitions.spiralslider.edge);
@@ -61,6 +64,7 @@ namespace Game {
     await ƒS.Speech.tell(characters.evilguy, text.evilguy.T0006);
     await ƒS.Speech.tell("", text.narration.N0003, true, "italic");
     await ƒS.Speech.tell(characters.father, text.father.T0007);
+    ƒS.Sound.play(sound.gun, 0.2, false);
     await ƒS.Character.animate(characters.father, characters.father.pose.normal, hitLeftCharAnimation());
     await ƒS.Speech.tell("", text.narration.N0004, true, "italic");
     await ƒS.Speech.tell("", text.narration.N0005, true, "italic");
@@ -77,6 +81,7 @@ namespace Game {
 
     ƒS.Speech.clear();
     ƒS.Speech.hide();
+    ƒS.Sound.fade(sound.dream, 0, 0.5, false);
     await ƒS.Location.show(locations.black);
     await ƒS.update(transitions.spiralslider.duration, transitions.spiralslider.alpha, transitions.spiralslider.edge);
   }

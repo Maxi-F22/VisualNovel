@@ -8,37 +8,40 @@ namespace Game {
         T0003: "Mhhh, was ist das hier für eine Streichholzschachtel?",
         T0004: "Oh... gerne.",
         T0005: "Dieser Apfel! Vielleicht hat der Mörder in ihn gebissen und wir können Mundgrößen vergleichen.",
-        T0006: "Warum das denn?",
+        T0006: "Warum das denn?"
       },
       sheriff: {
         T0001: "So da wären wir. Jenkins wird da hinten befragt von meinen Leuten, falls du auch noch mit ihm reden möchtest. Was willst du zuerst erledigen?",
         T0002: "Wenn du dir nun alles angesehen hast, wird es Zeit, mit Jenkins zu reden.",
-        T0003: "Mmh, die könnte von einem Hut stammen.",
+        T0003: "Mmh, die könnte von einem Hut stammen."
       },
       policeman: {
-        T0001: "Oh mist, das ist mir gerade aus der Tasche gefallen, danke fürs Aufheben!",
+        T0001: "Oh mist, das ist mir gerade aus der Tasche gefallen, danke fürs Aufheben!"
       },
       jenkins: {
         T0001: "(von weiter weg rufend) Da wirst du Pech haben mein Junge. Außer der Mörder hat ein Riesengebiss.",
-        T0002: "Den Apfel hat mein Pferd angebissen...",
+        T0002: "Den Apfel hat mein Pferd angebissen..."
       },
       narration: {
         N0001: dataForSave.nameProtagonist + " schaut sich um und bemerkt mehrere Gegenstände, die um den Brunnen verteilt herumliegen.",
-        NH: "Hinweispunkte + 1",
+        NH: "Hinweispunkte + 1"
       }
     };
 
     let searchChoice = {
       look: "Umschauen",
-      ask: "Jenkins befragen",
+      ask: "Jenkins befragen"
     };
 
     let lookAroundChoice = {
       feather: "Feder",
       matches: "Streichholzschachtel",
-      apple: "Angebissenen Apfel",
+      apple: "Angebissenen Apfel"
     };
+    ƒS.Speech.hide();
 
+    ƒS.Sound.play(sound.west, 0.1, true);
+    ƒS.Sound.play(sound.well, 0.1, true);
     await ƒS.Location.show(locations.chapter3);
     await ƒS.update(5);
 
@@ -79,18 +82,20 @@ namespace Game {
             await ƒS.Speech.tell(characters.protagonist, text.protagonist.T0006);
             await ƒS.Speech.tell(characters.jenkins, text.jenkins.T0002);
             break;
-        };
+        }
 
         await ƒS.Character.animate(characters.sheriff, characters.sheriff.pose.normal, moveLeftCharAnimation());
         await ƒS.Character.show(characters.jenkins, characters.jenkins.pose.normal, ƒS.positionPercent(30, 90));
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
         await ƒS.update(1);
         return "chapter_three_well_interrogation";
       case searchChoice.ask:
         await ƒS.Character.animate(characters.sheriff, characters.sheriff.pose.normal, moveLeftCharAnimation());
         await ƒS.Character.show(characters.jenkins, characters.jenkins.pose.normal, ƒS.positionPercent(30, 90));
+        ƒS.Sound.fade(sound.west, 0, 0.5, false);
         await ƒS.update(1);
         return "chapter_three_well_interrogation";
-    };
+    }
 
 
   }

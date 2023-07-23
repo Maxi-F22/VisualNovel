@@ -33,16 +33,12 @@ namespace Game {
 
     let dialog = {
       what: "Was, ein Mörder?",
-      kidding: "Sie wollen mich verarschen, oder?",
+      kidding: "Sie wollen mich verarschen, oder?"
     };
 
-    // ƒS.Sound.fade(sound.nightclub, 0.02, 2, true);
-    // ƒS.Sound.fade(sound.river, 0.02, 2, true);
     ƒS.Speech.hide();
 
-    // ƒS.Sound.play(sound.cough, 0.04, false);
-
-
+    ƒS.Sound.play(sound.relax, 0.1, true);
 
     await ƒS.Location.show(locations.intro);
     await ƒS.update(5);
@@ -95,6 +91,8 @@ namespace Game {
 
     ƒS.Speech.clear();
     ƒS.Speech.hide();
+    
+    ƒS.Sound.fade(sound.relax, 0, 0.5, false);
     await ƒS.Location.show(locations.black);
     await ƒS.update(3);
   }
