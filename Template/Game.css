@@ -1,12 +1,12 @@
 body {
   margin: 0px;
   overflow-y: hidden;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-scene {
-  width: 100%;
-  height: 100%;
+body scene {
+  width: 100vw !important;
+  height: 100vh !important;
   display: inline-block;
 }
 
@@ -51,6 +51,11 @@ dialog[type=splash]>img#FudgeStoryLogo {
   margin-bottom: 200px;
 }
 
+.accusemenu-input {
+  position: absolute;
+  top: 200px;
+  left: 900px;
+}
 
 /***** SPEECH, CONTENT, NAMES *****/
 speech {
@@ -58,23 +63,28 @@ speech {
   bottom: 0px;
   left: 0px;
   color: beige;
-  background-color: rgba(57, 16, 24, 0.9);
+  background-color: rgba(97, 97, 97, 0.9);
   width: 100%;
-  height: 13%;
+  height: 20%;
 }
 
 speech content {
-  color: rgb(255, 203, 237);
-  font-size: 1.7vmin;
+  color: rgb(255, 255, 255);
+  font-size: 2vmin;
   position: absolute;
   left: 100px;
+  padding-right: 100px;
 }
 
 name {
-  font-size: 2vmin;
+  font-size: 3vmin;
   display: block;
-  color: rgb(218, 69, 171);
+  color: rgb(195, 195, 195);
   margin-bottom: 20px;
   margin-left: 100px;
   margin-top: 20px;
+}
+
+.italic {
+  font-style: italic;
 }
